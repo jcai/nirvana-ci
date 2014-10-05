@@ -12,7 +12,7 @@ before_install:
   - eval `ssh-agent -s`
   - ssh-add ~/.ssh/id_rsa
   - echo "machine bitbucket.org\n login $CI_DEPLOY_USERNAME\n password $CI_DEPLOY_PASSWORD\n" >> ~/.netrc
-  - sudo apt-get install cmake swig build-essential protobuf-compiler
+  - sudo apt-get install cmake swig build-essential
 install:
   - sh scripts/prepare.sh
   - git clone -b develop $GIT_URL target/nirvana
