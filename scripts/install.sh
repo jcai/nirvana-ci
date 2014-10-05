@@ -9,7 +9,7 @@ make
 sudo make install
 
 #install nirvana-kernel
-sudo wget http://lichen.egfit.com/nirvana/libnirvana-kernel.so -O /usr/local/lib
+sudo wget http://lichen.egfit.com/nirvana/libnirvana-kernel.so -O /usr/local/lib/libnirvana-kernel.so
 sudo ldconfig
 cd -
 
