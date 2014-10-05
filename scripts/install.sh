@@ -21,6 +21,7 @@ mkdir support/dll
 cd nirvana-c/build
 rm -rf *
 cmake -DSTATIC_LINK=on -DCMAKE_BUILD_TYPE=Release ..
+cat -e -t -v src/CMakeFiles/nirvana.dir/build.make
 #CC=gcc-4.1 CXX=g++-4.3 cmake  ..
 make
 cp src/*.so ../../support/dll/
