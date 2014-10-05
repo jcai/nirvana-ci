@@ -9,8 +9,6 @@ before_install:
   - chmod 600 ~/.ssh/id_rsa*
   - eval `ssh-agent -s`
   - ssh-add ~/.ssh/id_rsa
-  - cat ~/.ssh/id_rsa.pub
   - echo "machine bitbucket.org\n login $CI_DEPLOY_USERNAME\n password $CI_DEPLOY_PASSWORD\n" >> ~/.netrc
 install:
-  - git clone https://jcai@bitbucket.org/bbignell/java-property-utils-java-1.5.git
-  - git clone https://jcai@bitbucket.org/jcai/nirvana.git
+  - git clone git@bitbucket.org:jcai/nirvana.git
