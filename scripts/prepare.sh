@@ -35,21 +35,3 @@ cd -
 #ldconfig all library
 sudo ldconfig
 
-#compile nirvana
-git clone -b develop git@bitbucket.org:jcai/nirvana.git
-cd nirvana
-mkdir nirvana-c/build
-mkdir support/dll
-cd nirvana-c/build
-rm -rf *
-cmake -DSTATIC_LINK=on -DCMAKE_BUILD_TYPE=Release ..
-make
-#CC=gcc-4.1 CXX=g++-4.3 cmake  ..
-cp src/*.so ../../support/dll/
-rm -rf ../../nirvana-jni/src/main/java/nirvana/jni/services/gen
-mkdir -p ../../nirvana-jni/src/main/java/nirvana/jni/services/gen
-ls src/javaapi/*
-cat src/javaapi/CNirvanaJNI.java
-cp src/javaapi/* ../../nirvana-jni/src/main/java/nirvana/jni/services/gen
-cd -
-mvn -Dmaven.test.skip=true -DskipTests=true -Darguments="-DskipTests" -DBUILD_ID=`date +%Y%m%d_%H%M%S` -DBUILD_NUMBER=$BUILD_NUMBER -P production clean package

@@ -14,4 +14,6 @@ before_install:
   - echo "machine bitbucket.org\n login $CI_DEPLOY_USERNAME\n password $CI_DEPLOY_PASSWORD\n" >> ~/.netrc
   - sudo apt-get install cmake swig build-essential
 install:
-  - sh scripts/install.sh
+  - sh scripts/prepare.sh
+  - sh scripts/compile_jni.sh
+  - sh scripts/compile_java.sh
