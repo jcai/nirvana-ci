@@ -3,6 +3,7 @@ cd target
 #install snappy
 git clone https://github.com/google/snappy.git
 cd snappy
+./autogen.sh
 ./configure --with-pic
 make
 sudo make install
