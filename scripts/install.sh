@@ -1,3 +1,3 @@
 mkdir nirvana
 cd nirvana
-git clone https://bitbucket.org/jcai/nirvana.git
+git clone https://jcai@bitbucket.org/jcai/nirvana.git
