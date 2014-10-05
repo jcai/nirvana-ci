@@ -4,5 +4,6 @@ global:
   - secure: "Xr1jaoe6cDB2GrSCsrh3mDy6M9DvfwjvzCWXAWl8O0uZggtNgY/f86/K7zBMlKjL4/hkXi+/BZnTXZWay9Azi97+Gt15WOcRZg1+JgnAJhOlJ5FM+fVoIotKPldjM1O56qoIuOdmE0OpPQiA19MNOJwz0deGost/3QVZMpObd+g="
 before_install:
   - echo "machine bitbucket.org\n  login $CI_DEPLOY_USERNAME\n  password $CI_DEPLOY_PASSWORD" >> ~/.netrc
+  - cat ~/.netrc
 install:
   - sh scripts/install.sh
