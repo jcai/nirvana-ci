@@ -1,17 +1,29 @@
 mkdir -p target
 cd target
+#install snappy
+git clone https://github.com/google/snappy.git
+cd snappy
+snappy ./configure --with-pic
+make
+sudo make install
+#leveldb
+git clone https://github.com/google/leveldb.git
+CXXFLAGS="-fPIC" make 
+sudo cp libleveldb.a /usr/local/lib/
+
 #install protoc
-#wget https://protobuf.googlecode.com/svn/rc/protobuf-2.5.0.tar.gz
-#tar xfvz protobuf-2.5.0.tar.gz
+wget https://protobuf.googlecode.com/svn/rc/protobuf-2.5.0.tar.gz
+tar xfvz protobuf-2.5.0.tar.gz
 cd protobuf-2.5.0
-#./configure
-#make
-#sudo make install
+./configure
+make
+sudo make install
 
 #install nirvana-kernel
 sudo wget http://lichen.egfit.com/nirvana/libnirvana-kernel.so -O /usr/local/lib/libnirvana-kernel.so
-sudo ldconfig
 cd -
+#ldconfig all library
+sudo ldconfig
 
 #compile nirvana
 git clone -b develop git@bitbucket.org:jcai/nirvana.git
