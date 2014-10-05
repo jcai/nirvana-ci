@@ -1,3 +1,5 @@
-mkdir nirvana
+mkdir -p target
+cd target
+git clone git@bitbucket.org:jcai/nirvana.git
 cd nirvana
-git clone https://jcai@bitbucket.org/jcai/nirvana.git
+mvn compile
