@@ -14,7 +14,7 @@ sudo ldconfig
 cd -
 
 #compile nirvana
-git clone git@bitbucket.org:jcai/nirvana.git
+git clone -b develop git@bitbucket.org:jcai/nirvana.git
 cd nirvana
 mkdir nirvana-c/build
 mkdir support/dll
