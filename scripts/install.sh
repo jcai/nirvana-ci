@@ -7,6 +7,10 @@ cd protobuf-2.5.0
 ./configure
 make
 sudo make install
+
+#install nirvana-kernel
+sudo wget http://lichen.egfit.com/nirvana/libnirvana-kernel.so -O /usr/local/lib
+sudo ldconfig
 cd -
 
 #compile nirvana
