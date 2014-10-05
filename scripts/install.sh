@@ -1,12 +1,12 @@
 mkdir -p target
 cd target
 #install protoc
-wget https://protobuf.googlecode.com/svn/rc/protobuf-2.5.0.tar.gz
-tar xfvz protobuf-2.5.0.tar.gz
+#wget https://protobuf.googlecode.com/svn/rc/protobuf-2.5.0.tar.gz
+#tar xfvz protobuf-2.5.0.tar.gz
 cd protobuf-2.5.0
-./configure
-make
-sudo make install
+#./configure
+#make
+#sudo make install
 
 #install nirvana-kernel
 sudo wget http://lichen.egfit.com/nirvana/libnirvana-kernel.so -O /usr/local/lib/libnirvana-kernel.so
