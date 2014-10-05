@@ -25,7 +25,13 @@ sudo make install
 cd -
 
 #install nirvana-kernel
+mkdir kernel
+cd kernel
 sudo wget http://lichen.egfit.com/nirvana/libnirvana-kernel.so -O /usr/local/lib/libnirvana-kernel.so
+wget http://lichen.egfit.com/nirvana/kernel-header.tar.gz
+tar xfvz kernel-header.tar.gz
+sudo mv nirvana /usr/local/include/
+cd -
 #ldconfig all library
 sudo ldconfig
 
