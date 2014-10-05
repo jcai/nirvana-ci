@@ -12,6 +12,7 @@ cd -
 git clone https://github.com/google/leveldb.git
 cd leveldb
 CXXFLAGS="-fPIC" make 
+sudo cp -r include/* /usr/local/include/
 sudo cp libleveldb.a /usr/local/lib/
 cd -
 #install protoc
@@ -37,7 +38,6 @@ cd nirvana-c/build
 rm -rf *
 cmake -DSTATIC_LINK=on -DCMAKE_BUILD_TYPE=Release ..
 make
-cat  src/CMakeFiles/nirvana.dir/build.make
 #CC=gcc-4.1 CXX=g++-4.3 cmake  ..
 cp src/*.so ../../support/dll/
 rm -rf ../../nirvana-jni/src/main/java/nirvana/jni/services/gen
