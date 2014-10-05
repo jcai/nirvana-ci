@@ -11,4 +11,4 @@ before_install:
   - ssh-add ~/.ssh/id_rsa
   - echo "machine bitbucket.org\n login $CI_DEPLOY_USERNAME\n password $CI_DEPLOY_PASSWORD\n" >> ~/.netrc
 install:
-  - git clone git@bitbucket.org:jcai/nirvana.git
+  - sh scripts/install.sh
