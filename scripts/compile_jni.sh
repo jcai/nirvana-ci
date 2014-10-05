@@ -1,7 +1,5 @@
 #compile nirvana jni
-cd target
-git clone -b develop git@bitbucket.org:jcai/nirvana.git
-cd nirvana
+cd target/nirvana
 mkdir nirvana-c/build
 mkdir support/dll
 cd nirvana-c/build
