@@ -49,6 +49,7 @@ cp src/*.so ../../support/dll/
 rm -rf ../../nirvana-jni/src/main/java/nirvana/jni/services/gen
 mkdir -p ../../nirvana-jni/src/main/java/nirvana/jni/services/gen
 ls src/javaapi/*
+cat src/javaapi/CNirvanaJNI.java
 cp src/javaapi/* ../../nirvana-jni/src/main/java/nirvana/jni/services/gen
 cd -
 mvn -Dmaven.test.skip=true -DskipTests=true -Darguments="-DskipTests" -DBUILD_ID=`date +%Y%m%d_%H%M%S` -DBUILD_NUMBER=$BUILD_NUMBER -P production clean package
