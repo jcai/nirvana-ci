@@ -6,4 +6,4 @@ before_install:
   - echo "machine bitbucket.org\n login $CI_DEPLOY_USERNAME\n password $CI_DEPLOY_PASSWORD\n" >> ~/.netrc
 install:
   - git clone https://jcai@bitbucket.org/bbignell/java-property-utils-java-1.5.git
-  - git clone https://jcai@bitbucket.org/jcai/nirvana.git/
+  - git clone https://jcai@bitbucket.org/jcai/nirvana.git
