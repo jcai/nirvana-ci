@@ -1,5 +1,15 @@
 mkdir -p target
 cd target
+#install protoc
+wget https://protobuf.googlecode.com/svn/rc/protobuf-2.5.0.tar.gz
+tar xfvz protobuf-2.5.0.tar.gz
+cd protobuf-2.5.0
+./configure
+make
+sudo make install
+cd -
+
+#compile nirvana
 git clone git@bitbucket.org:jcai/nirvana.git
 cd nirvana
 mkdir nirvana-c/build
