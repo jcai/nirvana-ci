@@ -10,9 +10,6 @@ make
 cp src/*.so ../../support/dll/
 rm -rf ../../nirvana-jni/src/main/java/nirvana/jni/services/gen
 mkdir -p ../../nirvana-jni/src/main/java/nirvana/jni/services/gen
-ls src/javaapi/*
 cp src/javaapi/* ../../nirvana-jni/src/main/java/nirvana/jni/services/gen
-ls ../../nirvana-jni/src/main/java/nirvana/jni/services/gen/*
-cat ../../nirvana-jni/src/main/java/nirvana/jni/services/gen/CNirvanaJNI.java
 
 
