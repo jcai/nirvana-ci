@@ -1,2 +1,2 @@
-FIXES #52 增加meta api的文档说明
- c26371b13dcb44077d05c46a5203c0c90fc39977
+REF #76 调整编译说明
+ 80226a0c79b976dc286ca7bebd20cc1e854771cf
