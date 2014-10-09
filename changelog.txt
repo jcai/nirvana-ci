@@ -1,2 +1,2 @@
-抓取比对子任务的时候，当返回的数据大小小于批次的时候，才继续，否则形成死循环
- dc23fcd750af8ab3b89d8e251a6a0f8f7cb2598b
+Merge branch 'develop'
+ 98665fb644eecac8a3801b944ef1857183f7ca04
