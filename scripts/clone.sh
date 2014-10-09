@@ -1,4 +1,4 @@
-if [ $TRAVIS_TAG];then
+if [ $TRAVIS_TAG ];then
   echo "checkout ${TRAVIS_TAG} ..."
   git clone --branch=$TRAVIS_TAG $GIT_URL target/nirvana
 else
