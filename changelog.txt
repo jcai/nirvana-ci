@@ -1,2 +1,2 @@
-[maven-release-plugin] prepare for next development iteration
- befebfe896af01f0a53878d976f3f432a5fef9c8
+FIXES #68 针对RPC客户端写入操作之后进行检查是否真正写入到channel，并且给出相对应消息提示
+ b02d7d1e1df835fb8f1aefb67c6d699c9a8851b6
