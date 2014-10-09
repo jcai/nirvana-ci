@@ -33,11 +33,11 @@ deploy:
     - target/nirvana/nirvana-storage/target/nirvana-storage-api-${TRAVIS_TAG}-bin.tar.gz
     - target/nirvana/nirvana-storage/target/nirvana-storage-meta-${TRAVIS_TAG}-bin.tar.gz
     - target/nirvana/nirvana-storage/target/nirvana-storage-node-${TRAVIS_TAG}-bin.tar.gz
-    - traget/nirvana/nirvana-matcher/target/nirvana-matcher-acker-${TRAVIS_TAG}-bin.tar.gz
-    - traget/nirvana/nirvana-matcher/target/nirvana-matcher-merger-${TRAVIS_TAG}-bin.tar.gz
-    - traget/nirvana/nirvana-matcher/target/nirvana-matcher-processor-${TRAVIS_TAG}-bin.tar.gz
-    - traget/nirvana/nirvana-matcher/target/nirvana-matcher-spout-${TRAVIS_TAG}-bin.tar.gz
-    - traget/nirvana/nirvana-matcher/target/nirvana-matcher-sync-${TRAVIS_TAG}-bin.tar.gz
+    - target/nirvana/nirvana-matcher/target/nirvana-matcher-acker-${TRAVIS_TAG}-bin.tar.gz
+    - target/nirvana/nirvana-matcher/target/nirvana-matcher-merger-${TRAVIS_TAG}-bin.tar.gz
+    - target/nirvana/nirvana-matcher/target/nirvana-matcher-processor-${TRAVIS_TAG}-bin.tar.gz
+    - target/nirvana/nirvana-matcher/target/nirvana-matcher-spout-${TRAVIS_TAG}-bin.tar.gz
+    - target/nirvana/nirvana-matcher/target/nirvana-matcher-sync-${TRAVIS_TAG}-bin.tar.gz
   skip_cleanup: true
   on:
     tags: true
