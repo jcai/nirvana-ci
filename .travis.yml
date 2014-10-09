@@ -19,6 +19,6 @@ before_install:
   - sudo apt-get install cmake swig build-essential
 install:
   - sh scripts/prepare.sh
-  - git clone -b develop $GIT_URL target/nirvana
+  - sh scripts/clone.sh
 #  - sh scripts/compile_jni.sh
 #  - sh scripts/compile_java.sh
