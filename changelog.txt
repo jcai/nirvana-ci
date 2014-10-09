@@ -1,2 +1,2 @@
-FIXES #68 针对RPC客户端写入操作之后进行检查是否真正写入到channel，并且给出相对应消息提示
- b02d7d1e1df835fb8f1aefb67c6d699c9a8851b6
+FIXES #66 增加对web服务器的配置参数，方便部署时候能够对web容器进行自定义
+ 3dbbf8ae4d00921101d6ec541ea80efbcc2c7e1c
