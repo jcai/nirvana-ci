@@ -1,6 +1,4 @@
 language: java
-jdk:
-- openjdk6
 global:
 - secure: QJkoeIk5GU41c1ir/uZML6KgVDUoiw0K45sNal7rtW/uhRvT/HrmG3iLGmw8qcbMN4F16Tr/GITVkmUy20LiPitm8AjO4QOIXgjPKMOHpWfpQnBwgLCRJeDcIoxwouKpOmZYd7i0EURvvFFxn2LeksepSSAS/dgDVi/hqSZLx70=
 - secure: Xr1jaoe6cDB2GrSCsrh3mDy6M9DvfwjvzCWXAWl8O0uZggtNgY/f86/K7zBMlKjL4/hkXi+/BZnTXZWay9Azi97+Gt15WOcRZg1+JgnAJhOlJ5FM+fVoIotKPldjM1O56qoIuOdmE0OpPQiA19MNOJwz0deGost/3QVZMpObd+g=
