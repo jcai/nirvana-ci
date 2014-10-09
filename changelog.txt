@@ -1,2 +1,2 @@
-[maven-release-plugin] prepare release nirvana-project-1.0.2
- ce2ed0dba2cc1e87b73f7090adc6ac9909bf7a02
+[maven-release-plugin] prepare for next development iteration
+ befebfe896af01f0a53878d976f3f432a5fef9c8
