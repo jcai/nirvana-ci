@@ -1,2 +1,2 @@
-FIXES #52  meta的api支持多组数据上传，提高传输效率
- 8c1837d731831405f43f392348bae1d9087dcf17
+FIXES #52 增加meta api的文档说明
+ c26371b13dcb44077d05c46a5203c0c90fc39977
