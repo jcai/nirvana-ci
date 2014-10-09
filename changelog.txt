@@ -1,2 +1,2 @@
-FIXES #66 增加对web服务器的配置参数，方便部署时候能够对web容器进行自定义
- 3dbbf8ae4d00921101d6ec541ea80efbcc2c7e1c
+FIXES #66 修正增加的变量为可选的，兼容之前的系统
+ 90222382c4ec7431adb0146c49ddbfaeb12ec5ef
