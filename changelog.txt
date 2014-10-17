@@ -1,2 +1,2 @@
-FIXES #97 添加详细的usage
- 6332f1d0eb27c9dd49685264eec0c0dce5d01dcb
+FIXES #97 增加时间输出
+ bbb1e8b2a5337ea2ec35bcd2adbae23c36740553
