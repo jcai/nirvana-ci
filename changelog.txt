@@ -1,2 +1,2 @@
-移动资源文件到resources目录下
- fae169adf46afb60721f0f13428fbe7f9050f98e
+FIXES #97 完成加载测试数据的脚本
+ ad4ab94334affa5c148bc59314ceb59d48c2e0fc
