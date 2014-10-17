@@ -1,2 +1,2 @@
-REF #76 调整编译说明
- 80226a0c79b976dc286ca7bebd20cc1e854771cf
+FIXES #96 在发出请求之后，应该关闭socket链接，否则出现 No buffer space available
+ bdf58ae9b48cf0742bfa07e4a2c1941afd8d9162
