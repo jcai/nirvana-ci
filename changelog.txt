@@ -1,2 +1,2 @@
-FIXES #96 在发出请求之后，应该关闭socket链接，否则出现 No buffer space available
- bdf58ae9b48cf0742bfa07e4a2c1941afd8d9162
+移动资源文件到resources目录下
+ fae169adf46afb60721f0f13428fbe7f9050f98e
