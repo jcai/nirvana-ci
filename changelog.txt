@@ -1,2 +1,2 @@
-FIXES #97 添加线程的捕获终止信号
- a4bb2b9fb61fd239aa0ab5a9f4b9952ba427e96c
+FIXES #97 调整退出模式，否则会大大影响性能
+ 990f99acd3634ca34d4be9cbdb92541455f12221
