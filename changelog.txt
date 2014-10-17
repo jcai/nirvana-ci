@@ -1,2 +1,2 @@
-FIXES #97 完成加载测试数据的脚本
- ad4ab94334affa5c148bc59314ceb59d48c2e0fc
+FIXES #97 添加详细的usage
+ 6332f1d0eb27c9dd49685264eec0c0dce5d01dcb
