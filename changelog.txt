@@ -1,2 +1,2 @@
-FIXES #97 增加时间输出
- bbb1e8b2a5337ea2ec35bcd2adbae23c36740553
+FIXES #97 添加线程的捕获终止信号
+ a4bb2b9fb61fd239aa0ab5a9f4b9952ba427e96c
