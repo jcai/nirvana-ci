@@ -1,2 +1,2 @@
-增加socket的关闭连接操作
- c0ee0f3885b9da18288d32cb0fc86ba7307a59e8
+因为在python中没有真正的多线程，采用了多进程来代替
+ 58fb39e7a94d53ed689ac590efba27f55071827b
