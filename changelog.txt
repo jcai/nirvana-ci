@@ -1,2 +1,2 @@
-[maven-release-plugin] prepare for next development iteration
- 6020a26d5ac2e9a316065f0088f2631904c15e0c
+FIXES #98 meta服务器中增加配置，支持可配置需要在meta保留的binglog日志
+ b05c02ecfa07a2f92f5147ba9c242d10848a56ca
