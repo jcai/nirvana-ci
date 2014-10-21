@@ -1,2 +1,2 @@
-Merge branch 'develop'
- d45285550b8bdb04ccfe9c3be6468a1f01c0726d
+[maven-release-plugin] prepare release nirvana-project-1.0.3.1
+ c46c280812ca899e655f9dc99cd1ce032229f1d6
