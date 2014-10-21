@@ -1,2 +1,2 @@
-FIXES #98 meta服务器中增加配置，支持可配置需要在meta保留的binglog日志
- b05c02ecfa07a2f92f5147ba9c242d10848a56ca
+FIXES #97 添加JAVA版本的压力测试工具，方便产生大量的测试数据
+ cbe21ae1206659aaf79d3eb148dfa1996ebcb76e
