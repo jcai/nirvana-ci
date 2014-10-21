@@ -1,2 +1,2 @@
-FIXES #97 尝试关闭流
- b266d10278fa411713e0e1a69bcb06015dc3bcd8
+还原打包使用的jar scope
+ db43ae62b3928164b233176d1a594544cdc10228
