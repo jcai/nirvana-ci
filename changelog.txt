@@ -1,2 +1,2 @@
-FIXES #97 添加JAVA版本的压力测试工具，方便产生大量的测试数据
- cbe21ae1206659aaf79d3eb148dfa1996ebcb76e
+FIXES #97 尝试关闭流
+ b266d10278fa411713e0e1a69bcb06015dc3bcd8
