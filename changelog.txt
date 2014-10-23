@@ -1,2 +1,2 @@
-[maven-release-plugin] prepare for next development iteration
- a932dcc56fb391d8b42ad7b7ff8563c1b7c7c57b
+修正各种线程Pool的问题，尤其是jetty的线程池
+ 7009e1f976963ef851c3b09700df347547f5cd53
