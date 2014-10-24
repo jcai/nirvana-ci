@@ -1,2 +1,2 @@
-FIXES #102 重新调整ThreadPool的生成类,便于复用
- e8962e35ee3c6380c1136da6b5702e2edeb75665
+配置web服务器的请求buffer和响应buffer
+ f9f1832852bfc4dede9f4db5a067faae5b887bee
