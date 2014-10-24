@@ -1,2 +1,2 @@
-修正各种线程Pool的问题，尤其是jetty的线程池
- 7009e1f976963ef851c3b09700df347547f5cd53
+FIXES #102 重新调整ThreadPool的生成类,便于复用
+ e8962e35ee3c6380c1136da6b5702e2edeb75665
