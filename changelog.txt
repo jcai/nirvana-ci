@@ -1,2 +1,2 @@
-调整输出错误
- 0c3e8b271d66c75b7fde677922b1d9c7bdcd5bad
+发生异常时候，也要释放信号
+ a79aa5ddacb40e2fb7034343c03b0fa5570d0b35
