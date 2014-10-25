@@ -1,2 +1,2 @@
-增加关闭异步对象
- f9c65bf54f062ecbddb2a5b8e8f2542634f4de2b
+调整输出错误
+ 0c3e8b271d66c75b7fde677922b1d9c7bdcd5bad
