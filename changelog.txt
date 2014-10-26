@@ -1,2 +1,2 @@
-发生异常消息后，进行释放semp,避免导致main程序退出
- 98ba465b7bc86237ee8e29867fd969171a59992f
+FIXES #101 修正服务器关闭操作，支持jetty的graceful关闭操作
+ a3f42c7be8d74ac93e39e0cbcb51c06c24d7a76c
