@@ -1,2 +1,2 @@
-FIXES #101 修正服务器关闭操作，支持jetty的graceful关闭操作
- a3f42c7be8d74ac93e39e0cbcb51c06c24d7a76c
+FIXES #100 去掉metrics产生的多余线程
+ 6feb131b1bfe303d359b138ef15caf3685cc158a
