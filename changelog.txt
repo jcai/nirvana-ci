@@ -1,2 +1,2 @@
-FIXES #100 去掉metrics产生的多余线程
- 6feb131b1bfe303d359b138ef15caf3685cc158a
+Merge branch 'develop'
+ 75087ca8f837c8084cca8f6859b22067d75814b5
