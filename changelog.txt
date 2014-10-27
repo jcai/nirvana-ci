@@ -1,2 +1,2 @@
-FIXES #103 增加Snappy的压缩，提高网络传输效率
- e5a61cf61de5815f1af60676abbb032d23fd60ca
+服务器端如果发生错误，则关闭此channel，避免客户端过多的请求操作
+ 1628b1c2e0742b499d9c1cbed37eda84774f44d2
