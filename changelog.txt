@@ -1,2 +1,2 @@
-FIXES #104 采用信号量的模式，能够支持在多个线程中使用
- 9e9189a3b056a4b7fe6a1c330ad9df5c35e96d72
+FIXES #103 增加Snappy的压缩，提高网络传输效率
+ e5a61cf61de5815f1af60676abbb032d23fd60ca
