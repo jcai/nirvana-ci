@@ -1,2 +1,2 @@
-服务器端如果发生错误，则关闭此channel，避免客户端过多的请求操作
- 1628b1c2e0742b499d9c1cbed37eda84774f44d2
+删除binglog日志给出提示信息
+ abf3f8b961dc4ef771c66fd850ae554341c8063a
