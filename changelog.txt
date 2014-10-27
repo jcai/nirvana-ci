@@ -1,2 +1,2 @@
-FIXES #106 SyncBinlogValue 能够保存原始数据，这样大大减少meta中的数据容量
- c91165c55ae018273ce261c4e2d93383c7fc1a33
+FIXES #108 采取批量删除模式，每次最少删除100000条
+ 6b34f7f9cd462eeb9afa4fc18075e29cd1a3cc36
