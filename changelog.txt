@@ -1,2 +1,2 @@
-[maven-release-plugin] prepare for next development iteration
- 6dab279ad4ed96e71363d626deb1deaf09ea8fe6
+FIXES #104 采用锁的模式来处理数据同步的问题，当超过一定时间未能返回结果给出提示信息
+ dbf7d1dbea4b190444b329a0b8aa303b8bca7cb0
