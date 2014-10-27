@@ -1,2 +1,2 @@
-FIXES #108 采取批量删除模式，每次最少删除100000条
- 6b34f7f9cd462eeb9afa4fc18075e29cd1a3cc36
+FIXES #106 调整数据的序列号，序列号由专门的key进行处理
+ ad390083d5c03b5c808bce25d6cfb026ba1b4e37
