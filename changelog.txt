@@ -1,2 +1,2 @@
-FIXES #110 抓取任务时候缓存min_log_id
- 0328f868dc52ffdc43f17800389139b8307a30be
+FIXES #109 缓存分区信息，提高API的响应
+ b3c0be1feb956d55b564576edd8af0eafec96873
