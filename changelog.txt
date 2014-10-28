@@ -1,2 +1,2 @@
-FIXES #106 调整数据的序列号，序列号由专门的key进行处理
- ad390083d5c03b5c808bce25d6cfb026ba1b4e37
+FIXES #110 抓取任务时候缓存min_log_id
+ 0328f868dc52ffdc43f17800389139b8307a30be
