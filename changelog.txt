@@ -1,2 +1,2 @@
-FIXES #109 缓存分区信息，提高API的响应
- b3c0be1feb956d55b564576edd8af0eafec96873
+FIXES #111 提供内置算法产生多条数据
+ ee84b78387b145ffa07e4d77d14faf4161d29be2
