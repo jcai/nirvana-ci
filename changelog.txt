@@ -1,2 +1,2 @@
-FIXES #112 SlaveNoSQL不保存原始数据
- 9722dae6b79334c6b56e82400ca56ccb4460c336
+修正文字错误
+ 62d1a70f8134b0b35a9afdb0e86bb0ae9c7aef49
