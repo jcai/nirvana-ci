@@ -1,2 +1,2 @@
-FIXES #111 调整数据报告条数为 65535
- 33e9751bac4d3d6cf4e2839300fa60c7e10e8e3e
+FIXES #111 调整数据产生的id尽量连续
+ bd6efa03f991d7a5298b614cd981f0ca462a9508
