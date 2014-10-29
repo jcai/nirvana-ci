@@ -1,2 +1,2 @@
-使用2MB的块大小
- c1d8d92caa80c4a78ac5fb47602f33a9f6ce6f6b
+修正SlaveBinlog
+ 9d6cc74161e4e03cc2e80eaf1c376fc1c752b717
