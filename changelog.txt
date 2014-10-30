@@ -1,2 +1,2 @@
-FIXES #113 调整block_size为自定义
- 61522d1b6ad4fc7a3f3f10b156986a5687ca6262
+FIXES #114 增加对mmap以及target_file_size的设置
+ ec914afa87542caf81a3f5c2753f68b6f8f54623
