@@ -1,2 +1,2 @@
-修正SlaveBinlog
- 9d6cc74161e4e03cc2e80eaf1c376fc1c752b717
+FIXES #113 调整block_size为自定义
+ 61522d1b6ad4fc7a3f3f10b156986a5687ca6262
