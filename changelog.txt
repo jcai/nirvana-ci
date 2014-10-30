@@ -1,2 +1,2 @@
-FIXES #114 增加对mmap以及target_file_size的设置
- ec914afa87542caf81a3f5c2753f68b6f8f54623
+FIXES #114 修正设置打开文件最大数
+ 28d3758d5024801391fdf749d48317b43681b8e5
