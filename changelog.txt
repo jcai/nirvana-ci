@@ -1,2 +1,2 @@
-FIXES #107 兼容rocksdb和leveldb
- 5a514afa01a40868bedb74ec8ffeab53408c72a5
+FIXES #107 兼容leveldb和rocksdb
+ 7130aa2c37878deba1a15e0c140cc04951d29e12
