@@ -1,2 +1,2 @@
-FIXES #107 重新调整rocksdb的设置参数 
- f8216ce195af2ab2f9698627cec75cfafbcfe9a0
+FIXES #107 优化rocksdb参数
+ 254ac7ee7ff25b2b4647f21d301a2f177a320383
