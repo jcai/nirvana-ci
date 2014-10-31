@@ -1,2 +1,2 @@
-FIXES #107 添加对rocksdb中关于block的自定义
- 3af361ffb7576320fbc8f83ca7ae71f255aa3657
+FIXES #107 重新调整rocksdb的设置参数 
+ f8216ce195af2ab2f9698627cec75cfafbcfe9a0
