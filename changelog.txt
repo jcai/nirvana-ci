@@ -1,2 +1,12 @@
-FIXES #107 兼容rocksdb以及leveldb
- 4a16224ba56b32295ded3ea2c349f9a340da4420
+Merge branch 'rocksdb' into develop
+
+* rocksdb:
+  FIXES #107 兼容rocksdb以及leveldb
+  同时支持两种db
+  FIXES #107 兼容leveldb和rocksdb
+  FIXES #107 兼容rocksdb和leveldb
+  FIXES #107 支持非rocksdb模式下的使用
+  转换为rocksdb
+  增加对rocksdb的支持
+  初步处理rocksdb
+ edcce56e7ca806fe16bf6d121696b5603ff7b17b
