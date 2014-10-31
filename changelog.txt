@@ -1,2 +1,2 @@
-同时支持两种db
- 916cf589e8f58ce9ee426e7997ddf24f9efc60cf
+FIXES #107 兼容rocksdb以及leveldb
+ 4a16224ba56b32295ded3ea2c349f9a340da4420
