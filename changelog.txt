@@ -1,2 +1,2 @@
-FIXES #107 调整合并的文件数,避免累积过多文件
- aa1d244473f134676aa6872b886e95dbb9e59d84
+FIXES #107 打开block_size定义
+ 6a985e027bf68d008625c5eb0ab18cd8e7a5b174
