@@ -1,2 +1,2 @@
-FIXES #107 打开block_size定义
- 6a985e027bf68d008625c5eb0ab18cd8e7a5b174
+FIXES #107 调整参数，支持快速合并
+ 6f91f3e24cf49f9a8553047a97ffe3f7ce93ce20
