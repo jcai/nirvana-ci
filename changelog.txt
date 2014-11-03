@@ -1,2 +1,2 @@
-修正disruptor的异常处理戒指，避免因为异常导致disruptor退出
- 7c44040e42811c2c60c49194f10734aef97bc4cc
+当future已经cancel了，那么将不进行处理
+ 549f20a15a5dcb4f9772fd10baf2d423a36bc2b1
