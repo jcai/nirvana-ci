@@ -1,2 +1,2 @@
-FIXES #116 支持读取mapping的线程数也是可配置的
- 0cf813621712a4fb0d9f575d936b41c551b626d9
+修正disruptor的异常处理戒指，避免因为异常导致disruptor退出
+ 7c44040e42811c2c60c49194f10734aef97bc4cc
