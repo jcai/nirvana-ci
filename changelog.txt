@@ -1,2 +1,2 @@
-FIXES #116 支持写入的线程数可配置
- 4a956d5dacb3b7ba98bb08fd9f9381fe0bc444d4
+FIXES #116 支持读取mapping的线程数也是可配置的
+ 0cf813621712a4fb0d9f575d936b41c551b626d9
