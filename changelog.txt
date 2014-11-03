@@ -1,2 +1,2 @@
-当future已经cancel了，那么将不进行处理
- baaf10c3074cff263f2327d5408d3fafcb932f0c
+使用gcc4.7进行编译
+ 57d6a0fd5b8f2c02c69a74b406887c0220761137
