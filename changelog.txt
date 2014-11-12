@@ -1,2 +1,2 @@
-#120 完成processor和spout的交互
- bc948a08c327255ed5b76d3ec18544da32f28358
+#120 merge部分迁移到spout中
+ e5291b48f0c4b3e07744bd31a6c97a6ca5c02c08
