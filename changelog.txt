@@ -1,2 +1,2 @@
-#120 merge部分迁移到spout中
- e5291b48f0c4b3e07744bd31a6c97a6ca5c02c08
+#120 变量重命名
+ 8707e327b176ee3077775061a10ff2723dbbdaeb
