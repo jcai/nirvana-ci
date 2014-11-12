@@ -1,2 +1,2 @@
-#120 增加启动时候加载SpoutManager
- 8feef74bc6d8b17ac8bceed1fd740d0c0c1497b2
+#120 完成processor和spout的交互
+ bc948a08c327255ed5b76d3ec18544da32f28358
