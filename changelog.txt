@@ -1,12 +1,2 @@
-Merge branch 'feature/fast_match' into develop
-
-* feature/fast_match:
-  #120 增加发送到web服务器的操作
-  #120 变量重命名
-  #120 merge部分迁移到spout中
-  #120 完成processor和spout的交互
-  #120 增加启动时候加载SpoutManager
-  #120 重新调整业务流程
-  #120 修正编译错误
-  #120 初步完成比对模块的重构
- 1089a690cf2ba0db0e7caea482935335c9735a02
+采用gcc47进行编译
+ a52528cf9bfd686c536d82230736636110f402d4
