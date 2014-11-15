@@ -1,2 +1,2 @@
-FIXES #123 定期抓取数据的分区数据
- 1c52b98338f49e7729394ee55bbfc3a5b78d330e
+FIXES #120 删除掉acker和merger项目
+ e20f7982c07403a062e578c4f246d3b5aa7c585b
