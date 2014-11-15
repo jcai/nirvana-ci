@@ -1,2 +1,2 @@
-FIXES #120 删除掉acker和merger项目
- e20f7982c07403a062e578c4f246d3b5aa7c585b
+FIXES #123 分区数据如果碰到没有数据，则就是最小到最大的情况，对于第一次请求尤为重要
+ b73ceb71efb4bb595fdff604c43055630d4b2fb9
