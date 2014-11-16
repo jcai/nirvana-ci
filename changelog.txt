@@ -1,2 +1,2 @@
-删除掉过期的API
- f5f7fadc9e6c3d95040c6474a0be6e68cc7d54ad
+FIXES #124 调整系统logger，方便进行日志输出
+ ab171e1acdbe76983ce197dd2b7e6f21947f99cb
