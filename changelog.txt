@@ -1,2 +1,2 @@
-调整比对结果合并导致程序崩溃的问题
- 19678b1009313a535534b5b480841e7f6ccebb75
+FIXES #124 重构系统的logger
+ 0f4edfcf11cb70fe76dff8b8c541d38fe28d5674
