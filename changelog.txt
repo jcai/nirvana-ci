@@ -1,2 +1,2 @@
-调整变量类型声明错误
- 3d36cd4a59f5e7ad8621f17b70332f34bb94c2fe
+FIXES #128 增强比对监控的timer，方便进行性能参数的输出
+ c4c0fe710729c339e809fa1e03aa4cb0f5c1efd3
