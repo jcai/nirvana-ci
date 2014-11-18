@@ -1,2 +1,2 @@
-当底层库出现问题，进行异常处理，便于排查问题
- af0887a021df1e2b2fb10685ccd9e36709a25adf
+FIXES #131 在spout部分不保存数据本身，只保存key
+ 788c0144efaa2e01dd627cfb3fd4f7b930f9efcb
