@@ -1,2 +1,2 @@
-FIXES #131 在spout部分不保存数据本身，只保存key
- 788c0144efaa2e01dd627cfb3fd4f7b930f9efcb
+输出分区信息抓取情况
+ 3249c19bf15c10e51850000f7892bce6f1b6e3a7
