@@ -1,2 +1,2 @@
-FIXES #128 增强比对监控的timer，方便进行性能参数的输出
- 060c0d7aea3b413cf583f2e490b4699fb3b9bf93
+release 1.0.6
+ 6663bfab7893e186e92e804dfae7d01bb60b1e1b
