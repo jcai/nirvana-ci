@@ -1,2 +1,2 @@
-输出抓取的比对任务数
- cc29c1782d5f3c46294ea3b92f0e9144472ba729
+FIXES #132 添加docker编译环境的支持
+ 1da6220f213b87fd7ca75a9fbeb2bdec98ddaa86
