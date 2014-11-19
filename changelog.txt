@@ -1,2 +1,2 @@
-输出分区信息抓取情况
- 3249c19bf15c10e51850000f7892bce6f1b6e3a7
+FIXES #117 解决停止的pid阻止启动的问题
+ c49ff42c18a96193e3dbd8b5191fedb6d8b0bf7c
