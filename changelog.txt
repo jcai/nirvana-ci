@@ -1,2 +1,2 @@
-FIXES #117 解决停止的pid阻止启动的问题
- c49ff42c18a96193e3dbd8b5191fedb6d8b0bf7c
+FIXES #117 解决内部输出信息到文件
+ 4c6988d795178373c72fab4810da6e4c8aa3021c
