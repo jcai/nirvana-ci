@@ -1,2 +1,2 @@
-修正比对联调问题
- fe64198f34887d4adfd8bf4606ad1a87f78313d9
+删除swig
+ 7ce98e80c23a92907c3bd0accb334844a3e396d6
