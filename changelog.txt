@@ -1,2 +1,2 @@
-删除swig
- 7ce98e80c23a92907c3bd0accb334844a3e396d6
+FIXES #133 支持对于平面指纹的支持
+ 884dcbff77c435d32f48db1f41599b6d3b91f014
