@@ -1,2 +1,2 @@
-FIXES #135 添加spout部分的监控支持
- 860ae730962d213b6de03ea8a2a1b1b91bf4c362
+FIXES #135 调整请求策略
+ 13f9626158308085c846b7de573b2df88c6c0c36
