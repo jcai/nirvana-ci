@@ -1,2 +1,2 @@
-debug seg match
- 5aac43a4998e94f72d2b49163270607974331e54
+FIXES #136 重新实现比对线程模型，能够充分利用CPU
+ 518cb846f681da3894cdf194d358d8dceea5534d
