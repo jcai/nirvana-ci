@@ -1,2 +1,2 @@
-输出队列大小
- 56fdbbefca1ba2f95449b87425cec2bdc7bac49d
+FIXES #135 修正不能被0，除的异常
+ 68f7a57e4327f8c976c9f5a315fc9207100a1810
