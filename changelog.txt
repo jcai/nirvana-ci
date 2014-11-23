@@ -1,2 +1,2 @@
-FIXES #137 添加mingw的编译环境，能够编译出来dll文件
- 91e5e83e8d4e93926c7963819d6a867fe386c357
+FIXES #137 增加在ubuntu下的docker文件
+ aa1c542559f626ff81a7368d99eae83fe9b74c25
