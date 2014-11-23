@@ -1,2 +1,2 @@
-FIXES #135 调整语句
- 671a6261dc08909dd7339c5b0fe9ff95c6fa191e
+FIXES #137 remove some code for normal leveldb
+ a83a8614dbf7baf893ee2aabd1dbae04331fb444
