@@ -1,2 +1,2 @@
-FIXES #137 remove some code for normal leveldb
- a83a8614dbf7baf893ee2aabd1dbae04331fb444
+FIXES #137 add cmake build tools
+ 5f3dc132ccef3b52ff52d83dc4cb2eb1cc05a4ba
