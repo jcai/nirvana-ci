@@ -1,2 +1,2 @@
-FIXES #137 增加在ubuntu下的docker文件
- aa1c542559f626ff81a7368d99eae83fe9b74c25
+FIXES #137 重构编译使用的docker
+ 97cd7d74ef8ba48f3e1e83c48477e16db726080e
