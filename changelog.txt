@@ -1,2 +1,2 @@
-修正对key的copy操作
- c66c46bad609a8df55a2dbbd166639c8cc9ba457
+FIXES #141 添加默认topN为10
+ 437a56840a3b55f9adb85a69fcb823d097821840
