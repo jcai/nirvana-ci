@@ -1,2 +1,2 @@
-FIXES #139 增强对指位的处理
- 7868ea33fcde309f55d44a19b4b8e0c422d7abf4
+FIXES #140 完善指位信息参入比对
+ a47ded524c31446a19272f2bf2479c9e254df57c
