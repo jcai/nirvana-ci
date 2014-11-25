@@ -1,2 +1,2 @@
-FIXES #140 增强对指纹特征大小的判断
- cc4825656772283f560b5d1c61c0fa119b12eef3
+修正对key的copy操作
+ c66c46bad609a8df55a2dbbd166639c8cc9ba457
