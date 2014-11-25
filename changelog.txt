@@ -1,2 +1,2 @@
-FIXES #143 比对结果返回指位信息
- e80a9f97e6804eaf0963d279a0cbbb8481e78916
+FIXES #144 返回结果也变为long类型
+ 5ad9e72e9e7e94a4ac69d8e35b672450888f30e6
