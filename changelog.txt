@@ -1,25 +1,2 @@
-Merge branch 'release/1.0.7'
-
-* release/1.0.7: (57 commits)
-  去掉多余的日志信息
-  FIXES #145 抓取比对任务定位每秒抓一次
-  Revert "FIXES #145 当完成批次的时候进行手工的请求比对任务，能够充分利用CPU"
-  Revert "FIXES #145 当poll的时候，没有任务，则立即进行抓取"
-  Revert "FIXES #145 发送完抓取请求后，让出CPU"
-  FIXES #145 发送完抓取请求后，让出CPU
-  FIXES #145 当poll的时候，没有任务，则立即进行抓取
-  FIXES #145 当完成批次的时候进行手工的请求比对任务，能够充分利用CPU
-  FIXES #139 针对所有指位的操作采用DataUtils的方法进行操作
-  FIXES #139 修正指位的处理，指位移位从0开始
-  FIXES #139 支持对文件进行过滤操作
-  FIXES #144 返回结果也变为long类型
-  FIXES #143 比对结果返回指位信息
-  FIXES #141 添加默认topN为10
-  修正对key的copy操作
-  FIXES #140 增强对指纹特征大小的判断
-  FIXES #140 完善带特征头的比对信息
-  FIXES #140 完善指位信息参入比对
-  FIXES #139 增强对指位的处理
-  FIXES #139 增加比对的时候能够读取文件进行比对
-  ...
- d92f22133c7ad55fb6991926d44e429901ecf63c
+release 1.0.7
+ 6abc4073dd1fe84cad49b166f515f21f3ae963ba
