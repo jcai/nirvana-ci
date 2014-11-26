@@ -1,2 +1,2 @@
-FIXES #139 修正指位的处理，指位移位从0开始
- 11af4b05a5edc24feddf156c5282df6214464a01
+FIXES #139 针对所有指位的操作采用DataUtils的方法进行操作
+ d90999a7318bd7d87cd3ee46ab91d3ffefbfb3e3
