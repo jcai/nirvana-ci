@@ -1,2 +1,2 @@
-FIXES #139 针对所有指位的操作采用DataUtils的方法进行操作
- d90999a7318bd7d87cd3ee46ab91d3ffefbfb3e3
+FIXES #145 当poll的时候，没有任务，则立即进行抓取
+ 41db228934d4b4894d572e0384685a3aa82a6509
