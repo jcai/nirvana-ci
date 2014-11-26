@@ -1,4 +1,4 @@
-Revert "FIXES #145 发送完抓取请求后，让出CPU"
+Revert "FIXES #145 当poll的时候，没有任务，则立即进行抓取"
 
-This reverts commit 7e94fe22e9d6ef9d576c4d3794a1f639e7239344.
- 3bb0ff144c64c0be9caa89646aa9c4168d42c038
+This reverts commit 41db228934d4b4894d572e0384685a3aa82a6509.
+ b6be2925210a058f6efe1585528cde5f40aed005
