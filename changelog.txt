@@ -1,4 +1,2 @@
-Revert "FIXES #145 当完成批次的时候进行手工的请求比对任务，能够充分利用CPU"
-
-This reverts commit f0c82afe5fc2c685e2db18bf7fb4d3e3597af1d1.
- ffa3c64aeda2af785671fa83071d8144a693731f
+FIXES #145 抓取比对任务定位每秒抓一次
+ 8a1be4d438de5c587d39fadd089e55bef5743bf7
