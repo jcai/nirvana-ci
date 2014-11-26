@@ -1,2 +1,2 @@
-release 1.0.7
- 6abc4073dd1fe84cad49b166f515f21f3ae963ba
+输出同步数据信息
+ 70cce78de42380a9eb5975086b94b314a8124c2c
