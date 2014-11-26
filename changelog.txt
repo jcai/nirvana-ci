@@ -1,4 +1,4 @@
-Revert "FIXES #145 当poll的时候，没有任务，则立即进行抓取"
+Revert "FIXES #145 当完成批次的时候进行手工的请求比对任务，能够充分利用CPU"
 
-This reverts commit 41db228934d4b4894d572e0384685a3aa82a6509.
- b6be2925210a058f6efe1585528cde5f40aed005
+This reverts commit f0c82afe5fc2c685e2db18bf7fb4d3e3597af1d1.
+ ffa3c64aeda2af785671fa83071d8144a693731f
