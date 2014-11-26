@@ -1,2 +1,4 @@
-FIXES #145 发送完抓取请求后，让出CPU
- 7e94fe22e9d6ef9d576c4d3794a1f639e7239344
+Revert "FIXES #145 发送完抓取请求后，让出CPU"
+
+This reverts commit 7e94fe22e9d6ef9d576c4d3794a1f639e7239344.
+ 3bb0ff144c64c0be9caa89646aa9c4168d42c038
