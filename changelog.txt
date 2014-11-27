@@ -1,2 +1,2 @@
-FIXES #152 修正队列问题
- 621f4b616b80998faffe1c577e82bdae9dc1a2d0
+FIXES #151 比对的时候过滤掉自己
+ e92da34fc670e4a4498537d9bcfe51c61dc48d60
