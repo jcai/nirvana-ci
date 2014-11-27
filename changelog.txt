@@ -1,2 +1,2 @@
-FIXES #151 修正倒序的问题
- 9fa16d70f67068b9604eabf90a2552a2eb1f330e
+FIXES #151 修正候选对的顺序问题
+ 9fd315cda334a0d2da14c9fe9caed45b44197e9f
