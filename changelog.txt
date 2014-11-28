@@ -1,2 +1,2 @@
-记录总数据数
- a6c6f30db69a4e8c49b610e7ba3528251eb6be58
+FIXES #155 分块时候的最大值不正确
+ 8b5f29f902688140dcf53bc9d74d0b728c6eeafd
