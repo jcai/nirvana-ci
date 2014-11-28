@@ -1,2 +1,2 @@
-FIXES #155 分块时候的最大值不正确
- 8b5f29f902688140dcf53bc9d74d0b728c6eeafd
+FIXES #155 尝试修正最大值的问题
+ 79e7c6a1b11af0d89b4d022144e35083d5b7c74b
