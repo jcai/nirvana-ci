@@ -1,2 +1,2 @@
-尝试修正
- ea35e355ca0ffa72cb70dc54f2d323c57d62b97e
+FIXES #154 scala端也要支持单线程
+ 587dc674c3023614ef40d67b94f596abd2c25165
