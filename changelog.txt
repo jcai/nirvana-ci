@@ -1,2 +1,2 @@
-FIXES #130 正确关闭matcher
- fbf051b9290b1e6cbea37c93e400a0f7880643da
+FIXES #130 关闭matcher之后，调用JNI方法进行删除
+ 7b5db83d595cf675d3fb16a5d7c10c7f36a5415b
