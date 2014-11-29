@@ -1,2 +1,2 @@
-FIXES #130 关闭matcher之后，调用JNI方法进行删除
- 7b5db83d595cf675d3fb16a5d7c10c7f36a5415b
+FIXES #130 线程退出时候也要关闭线程
+ c422637b7ce8db5617f888410e6b6df1fe16c0c5
