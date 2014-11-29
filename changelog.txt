@@ -1,2 +1,14 @@
-FIXES #130 线程退出时候也要关闭线程
- c422637b7ce8db5617f888410e6b6df1fe16c0c5
+Merge branch 'feature/fast-match' into develop
+
+* feature/fast-match:
+  FIXES #130 线程退出时候也要关闭线程
+  FIXES #130 关闭matcher之后，调用JNI方法进行删除
+  FIXES #130 正确关闭matcher
+  FIXES #131 格式化
+  FIXES #131 提供关闭方法能够正常关闭比对器
+  FIXES #154 scala端也要支持单线程
+  尝试修正
+  FIXES #154 共享内存，避免过多的内存开销
+  FIXES #154 完善内存使用的缓存，能够重复利用内存空间
+  FIXES #154 让申请的内存能够共享
+ ba6619f3ab5308c07e0e90061ab5767f955f77b5
