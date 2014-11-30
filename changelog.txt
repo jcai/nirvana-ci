@@ -1,2 +1,2 @@
-FIXES #156 增加安装同步服务器的文档
- 91613aecff3bd9741f6996dc6d07475f749cfbea
+FIXES #156 添加processor的安装文档
+ 91ad9d28502fb30ef0489ce05cc135aa78e09eda
