@@ -1,2 +1,2 @@
-FIXES #156 添加processor的安装文档
- 91ad9d28502fb30ef0489ce05cc135aa78e09eda
+FIXES #156 添加SPOUT的安装文档
+ 0b25ac1f0f26ba18251c3b3d3f6cc9d7ce99ac77
