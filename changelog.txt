@@ -1,2 +1,2 @@
-FIXES #146 支持Docker虚拟化
- f1ca9ee1f857fd8c897f60498772e45712e8597b
+FIXES #160 相同的比分按照hash值进行排序
+ ca06836819c2cda35fc6850e9b110c825439c3bf
