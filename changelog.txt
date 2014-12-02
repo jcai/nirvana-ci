@@ -1,2 +1,2 @@
-在非rocksdb的情况下需要删除内存空间
- dcb695eb4e3cc6b0bc1b0c8027a0f6ed20632c6c
+FIXES #146 支持Docker虚拟化
+ f1ca9ee1f857fd8c897f60498772e45712e8597b
