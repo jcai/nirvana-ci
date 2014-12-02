@@ -1,2 +1,2 @@
-FIXES #159 子任务发生异常向spout进行反馈
- 106566806030172d0e1a5ba653852951cb00bf2e
+在非rocksdb的情况下需要删除内存空间
+ dcb695eb4e3cc6b0bc1b0c8027a0f6ed20632c6c
