@@ -1,2 +1,2 @@
-FIXES #160 相同的比分按照key的SID来排序
- ae4f9d858864d9456d74e3e83713da4b454331ea
+FIXES #163 相互之间传递的sid数据为long类型
+ 72193e77b4e42cd4e6dc1fe4aa19a959534d14a2
