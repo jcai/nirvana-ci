@@ -1,2 +1,2 @@
-修正最高分会丢失的问题
- 2a27cd06655f5eab770037949eacc1015388e26d
+FIXES #162 过滤掉相同的key
+ cbb53f6d326f7fe3bb426b7923d47f22f9becc09
