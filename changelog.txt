@@ -1,2 +1,2 @@
-二次比对设置由spout传过来决定
- 27ebf1ba0c3a97f45ea5aa5b87078e16c7fd252b
+FIXES #169 调整指纹key数据的序列组成
+ 6ab1ff88b1fc95c123f07240941c6bc0c653d475
