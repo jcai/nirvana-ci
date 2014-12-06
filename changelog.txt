@@ -1,2 +1,2 @@
-FIXES #169 完成二次比对任务的产生
- 804a817fef4c8964351ae2fcc502552c041daca1
+FIXES #169 完成二次比对任务的向processor进行比对处理的工作
+ cbfa8d5364e523cee4da8abea5ba64adbb415cc1
