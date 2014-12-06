@@ -1,2 +1,2 @@
-debug
- a4db34e199562ac62c3aaf553b1f8eec2ad76b54
+FIXES #169 修正内存情况时机
+ 7b9f8106d1d333f4999cd503e81ee8b454ac4453
