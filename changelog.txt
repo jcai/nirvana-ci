@@ -1,2 +1,15 @@
-恢复纹线数据
- d295a16f078f49dc0911117901da974d0e1f4ca0
+Merge branch 'feature/ridge' into develop
+
+* feature/ridge:
+  恢复纹线数据
+  手工改变lt的输入参数
+  测试置文献数据为空
+  采用“或”操作，提供性能
+  FIXES #166 现场纹线的pos为11
+  FIXES #166 将纹线数据的pos调整到11-20范围
+  FIXES #166 修正内存空间申请问题
+  FIXES #166 修正特征列的问题
+  FIXES #166 比对的时候也加上纹线数据
+  FIXES #166 比对的时候，支持传入纹线数据
+  FIXES #166 同步数据增加对纹线数据的支持
+ a1e68c95facdb12ff854d99926c09a4534076e9f
