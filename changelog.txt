@@ -1,2 +1,2 @@
-FIXES #169 修正内存情况时机
- 7b9f8106d1d333f4999cd503e81ee8b454ac4453
+去掉debug信息
+ 981c14b2cfdbe7106b492fd9dbeb3dcdaee29cd0
