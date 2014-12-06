@@ -1,2 +1,2 @@
-FIXES #169 实现二次子比对任务数据的构成
- 5bbdb914ffd1b9ead7961a59bde390686d6e2bb9
+FIXES #169 完整实现二次比对任务
+ c9c68a719af8cba015f43812d4b1944c6689cd54
