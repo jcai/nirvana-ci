@@ -1,2 +1,2 @@
-FIXES #169 完成二次比对任务的向processor进行比对处理的工作
- cbfa8d5364e523cee4da8abea5ba64adbb415cc1
+FIXES #169 实现二次子比对任务数据的构成
+ 5bbdb914ffd1b9ead7961a59bde390686d6e2bb9
