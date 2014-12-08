@@ -1,2 +1,2 @@
-FIXES #172 简化代码实现
- e9c141d36edbcedf5ac7e07dd2df1a4aec580c93
+FIXES #172 第一次比对的数目罗列出来
+ 39841977c86c63321b72a771ec9e54e66ba7eba2
