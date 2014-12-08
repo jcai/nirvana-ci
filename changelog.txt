@@ -1,2 +1,2 @@
-FIXES #172 添加对palm掌位信息的支持，21和22
- 18ff584c894fbb7175cdceefb11d3fe1a5e913fc
+FIXES #172 初步完成数据同步时候对掌纹的支撑
+ ae8be739e662399c31b5da656cedb04936e7d709
