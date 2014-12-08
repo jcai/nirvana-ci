@@ -1,2 +1,2 @@
-FIXES #172 调整静态变量声明
- 8bc2918a94e8f34a89e7ccf9c35474d1841dbbb0
+FIXES #172 添加对palm掌位信息的支持，21和22
+ 18ff584c894fbb7175cdceefb11d3fe1a5e913fc
