@@ -1,2 +1,2 @@
-增加debug信息
- 0e077cd736ceead4906d4246afa4c10edc8c832a
+FIXES #172 简化代码实现
+ e9c141d36edbcedf5ac7e07dd2df1a4aec580c93
