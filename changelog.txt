@@ -1,2 +1,2 @@
-去掉debug信息
- 981c14b2cfdbe7106b492fd9dbeb3dcdaee29cd0
+FIXES #172 调整静态变量声明
+ 8bc2918a94e8f34a89e7ccf9c35474d1841dbbb0
