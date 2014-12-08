@@ -1,2 +1,2 @@
-FIXES #172 完善掌纹的比对部分
- 4634bc831f0617ab6dbd77390dc0721fb7b63e22
+增加debug信息
+ 0e077cd736ceead4906d4246afa4c10edc8c832a
