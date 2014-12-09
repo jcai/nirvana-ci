@@ -1,2 +1,7 @@
-FIXES #176 删除调试信息
- 25f78b3bea2f4156b83d2150e85a47e073582d5a
+Merge branch 'feature/match-with-pos' into develop
+
+* feature/match-with-pos:
+  FIXES #176 删除调试信息
+  FIXES #176 针对LT的二次比对单独处理
+  FIXES #176 二次比对仅仅比对特定指位的数据
+ 91b85e1df53e218bc92db758fff7b2c3cb956162
