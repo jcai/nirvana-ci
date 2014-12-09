@@ -1,2 +1,2 @@
-采用scala的方式进行遍历数据
- 988a630c5fb5aefe63d0204ec29444b8a0c60438
+FIXES #175 抽取对比对类型的处理
+ 947fb2301bf3b6db4b5b51f9db7d9dcded53b4a5
