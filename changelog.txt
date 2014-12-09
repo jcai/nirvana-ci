@@ -1,2 +1,2 @@
-增加对候选队列的测试
- 74aa58d8e23cf36cdf79d74d4daa34aad5ad2eef
+FIXES #172 掌位是1，2
+ 426cf6bff611ad533a9a4d6fb5140efc0f499b17
