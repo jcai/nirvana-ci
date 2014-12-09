@@ -1,7 +1,2 @@
-Merge branch 'feature/match-with-pos' into develop
-
-* feature/match-with-pos:
-  FIXES #176 删除调试信息
-  FIXES #176 针对LT的二次比对单独处理
-  FIXES #176 二次比对仅仅比对特定指位的数据
- 91b85e1df53e218bc92db758fff7b2c3cb956162
+FIXES #177 二次比对的基数动态调整
+ e4a669e9d6a696d72e6cba9dceb1344d4e5679da
