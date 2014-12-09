@@ -1,2 +1,2 @@
-FIXES #175 抽取对比对类型的处理
- 947fb2301bf3b6db4b5b51f9db7d9dcded53b4a5
+FIXES #175 重复利用代码
+ 294ffff32d8fdcd73ee0839709d8fc780086f521
