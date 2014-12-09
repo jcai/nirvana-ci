@@ -1,2 +1,2 @@
-完成LT和TL的特殊比对
- 0fd3f9b2b05b62cfc3f9e913071f54a5ef29b34c
+修正bug
+ c134ff630f6b6347a07e5f41034b4e58bf8c8948
