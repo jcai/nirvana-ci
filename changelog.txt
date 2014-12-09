@@ -1,2 +1,2 @@
-FIXES #168 最大比对数目做成可配置
- 0e1cf9d2f54f640e629bc2b6a14732c183e0f369
+JNI能够支持从jvm中制定目录
+ b7c9a19fec5b765ffc74e83863f80f000cc4c0b7
