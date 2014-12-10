@@ -1,2 +1,2 @@
-FIXES #171 重构C代码，更加精炼
- 241126313fa140b9ca8789cda5edf250772d6b12
+去掉多余信息
+ d8aa42be4ab0fcc0b19ff732d00522cdcb39d611
