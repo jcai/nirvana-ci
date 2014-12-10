@@ -1,2 +1,2 @@
-修正bug
- c134ff630f6b6347a07e5f41034b4e58bf8c8948
+FIXES #172 #171 重构C端代码，完整支持Palm比对
+ b414e6311bf0e45e4955cc30ab74cb4dffc89dca
