@@ -1,2 +1,2 @@
-FIXES #171 格式化C代码
- d725ae9cf1dce89fe02212372f0fc9b5218696f6
+FIXES #178 增强对平指指纹的支持
+ 289f4cb2eb04240845a8b1977deebfdbc46ab252
