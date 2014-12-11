@@ -1,2 +1,2 @@
-FIXES #179 sync的binlogValue不保存原始数据，这样能够减少总体的数据大小
- 9c46a119e1357d2cc0999618641e3f23160de77d
+FIXES #179 SYNC的同步中，当发生数据删除，也要删除本库数据
+ 884355462d8a73bfeab04ae837e3ff0857faf5ed
