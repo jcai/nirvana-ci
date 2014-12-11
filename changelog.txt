@@ -1,25 +1,2 @@
-Merge branch 'develop'
-
-* develop: (146 commits)
-  调整文件数据的输出文字
-  FIXES #178 调整序号
-  FIXES #178 修改注释
-  FIXES #178 现场指纹的兼容处理
-  FIXES #178 增强对平指指纹的支持
-  FIXES #171 格式化C代码
-  FIXES #171 代码一致
-  去掉多余信息
-  FIXES #171 重构C代码，更加精炼
-  FIXES #171 重构方法名称
-  FIXES #167 增加TL的说明
-  FIXES #172 #167 去掉TL中关于纹线数据的获取
-  FIXES #172 #171 重构C端代码，完整支持Palm比对
-  修正bug
-  完成LT和TL的特殊比对
-  FIXES #177 调整默认的基数为1500
-  FIXES #177 二次比对的基数动态调整
-  FIXES #176 删除调试信息
-  FIXES #176 针对LT的二次比对单独处理
-  FIXES #176 二次比对仅仅比对特定指位的数据
-  ...
- 9a0f54d9c95a7752b7fd541e4dd5b03826a5f415
+Release 1.0.8
+ 857ac4508055f456aa917402c4cd84695ac3ba6c
