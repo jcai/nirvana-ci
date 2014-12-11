@@ -1,2 +1,2 @@
-Release 1.0.8
- 857ac4508055f456aa917402c4cd84695ac3ba6c
+FIXES #179 sync的binlogValue不保存原始数据，这样能够减少总体的数据大小
+ 9c46a119e1357d2cc0999618641e3f23160de77d
