@@ -1,2 +1,2 @@
-FIXES #179 SYNC的同步中，当发生数据删除，也要删除本库数据
- 884355462d8a73bfeab04ae837e3ff0857faf5ed
+revert
+ d17e836d7d4b5f7585054e56cefea066443dbdd6
