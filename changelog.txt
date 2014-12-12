@@ -1,2 +1,2 @@
-FIXES #180 对于比对源数据使用的内存空间进行缓存
- 7099ccbd7d66fcc7cb6c3e31d44fc3195d21dbc8
+FIXES #181 入库的时候增加数据校验
+ f529447e04bf417fb2d94d59e67ed9c6b4b269e2
