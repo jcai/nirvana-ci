@@ -1,2 +1,2 @@
-FIXES #181 增加对比对源数据的校验
- 32eace5c5c0532b11e31edbb5fd70704cdfd65b0
+FIXES #181 修正判断逻辑错误
+ 994c26959be1054c055771be5e7fe5956e5ac69b
