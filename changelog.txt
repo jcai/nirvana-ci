@@ -1,4 +1,2 @@
-Revert "FIXES #181 增加对比对源数据的校验"
-
-This reverts commit 32eace5c5c0532b11e31edbb5fd70704cdfd65b0.
- 3b4f783be219bca7c37176e8b8e7bd857f7dc5bc
+FIXES #182 #181 把比对校验部分放入到spout中进行处理
+ 46a922b7e69bd59f55c32a08681a6e97e4bbb80d
