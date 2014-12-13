@@ -1,2 +1,2 @@
-FIXES #182 私有化校验函数
- e7fbfbde5c659a492df89b6078070397856ed523
+调整命名规范，更加scala化
+ caa15b1030a297cce0a6576ceaf19a8711a32694
