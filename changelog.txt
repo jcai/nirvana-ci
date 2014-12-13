@@ -1,2 +1,2 @@
-去掉没用的方法
- 2e07a505fc8f10ad0c3ae1fc1fddb3e6ddfd68cf
+调整函数实现方法
+ 61402b84e93a1e791a9e119f07fc7ff4dcd1c824
