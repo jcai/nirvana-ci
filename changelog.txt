@@ -1,2 +1,2 @@
-调整循环方式，采取递归模式
- d548024e996fc381bf2bbcc8a3ca507b3a7dcad7
+去掉多余的trait，采用type代替
+ 424c4ad2d4ca050968c5f73b7c54e03c0ae1f42c
