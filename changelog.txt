@@ -1,2 +1,2 @@
-去掉多余的trait，采用type代替
- 424c4ad2d4ca050968c5f73b7c54e03c0ae1f42c
+去掉没用的方法
+ 2e07a505fc8f10ad0c3ae1fc1fddb3e6ddfd68cf
