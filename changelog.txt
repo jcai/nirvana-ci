@@ -1,4 +1,4 @@
-Revert "FIXES #181 修正文字错误"
+Revert "FIXES #181 增加对比对源数据的校验"
 
-This reverts commit 6e02f8973cd3e242f01241e8c2f14ef161ba5530.
- 5c0f0c749511afdfd03cc51d3a293ede921f103a
+This reverts commit 32eace5c5c0532b11e31edbb5fd70704cdfd65b0.
+ 3b4f783be219bca7c37176e8b8e7bd857f7dc5bc
