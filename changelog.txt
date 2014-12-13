@@ -1,2 +1,2 @@
-调整命名规范，更加scala化
- caa15b1030a297cce0a6576ceaf19a8711a32694
+调整循环方式，采取递归模式
+ d548024e996fc381bf2bbcc8a3ca507b3a7dcad7
