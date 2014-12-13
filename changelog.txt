@@ -1,2 +1,4 @@
-FIXES #182 在spout上增加对数据的校验工作
- c466d4d36c620ab60751ac5767127c21c337f44e
+Revert "FIXES #181 修正文字错误"
+
+This reverts commit 6e02f8973cd3e242f01241e8c2f14ef161ba5530.
+ 5c0f0c749511afdfd03cc51d3a293ede921f103a
