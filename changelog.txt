@@ -1,2 +1,2 @@
-FIXES #171 修正业务逻辑
- ce04a22ef52b06d0dde0f5de8dbf488c1fcb63e0
+FIXES #171 去掉多余的变量 _batch_full
+ 67241fc06fd0a553237aa2f7606ee92b7e57d3d8
