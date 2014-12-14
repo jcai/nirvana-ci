@@ -1,2 +1,2 @@
-FIXES #171 重构方法，去掉编译警告
- dd9017ea70b84d509473e5f3642d8ede76b252e6
+FIXES #171 修正编译警告
+ df4918d61760cacca2c3c4f137a293b59c83a6d2
