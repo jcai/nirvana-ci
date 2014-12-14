@@ -1,2 +1,2 @@
-FIXES #171 去掉多余的变量 _batch_full
- 67241fc06fd0a553237aa2f7606ee92b7e57d3d8
+FIXES #171 调整变量名称
+ 0b818441c4a5b4e6dc6424f58df38cced25c4a90
