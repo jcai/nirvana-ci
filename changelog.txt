@@ -1,2 +1,2 @@
-支持c++11
- 9b7401a68d058aadb8aeeac15fa0ae38ee48b786
+支持在ubuntu下进行编译
+ 5f342b840ce39840022679893a8cf16cd6b550f2
