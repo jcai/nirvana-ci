@@ -1,2 +1,2 @@
-i调整在centos下编译
- bfff9a05c45bc2d1300879dc40f3d3329f904f02
+保留scala的type定义出来的类型
+ c536f6b2747d858d8bda89afc660ee050096a17b
