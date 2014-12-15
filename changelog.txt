@@ -1,2 +1,2 @@
-保留scala的type定义出来的类型
- c536f6b2747d858d8bda89afc660ee050096a17b
+接受比对，如果发生异常，则进行输出
+ ad46a76b3453c8a5069e2e1b29d4ad4461fce1af
