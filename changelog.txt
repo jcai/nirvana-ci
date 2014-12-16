@@ -1,25 +1,2 @@
-Merge branch 'develop'
-
-* develop: (38 commits)
-  调整异常消息输出方法
-  接受比对，如果发生异常，则进行输出
-  保留scala的type定义出来的类型
-  i调整在centos下编译
-  FIXES #171 调整长度声明，使用一个byte
-  FIXES #171 重新调整函数名称，便于理解
-  FIXES #171 去掉警告信息
-  FIXES #171 格式化代码
-  FIXES #171 调整变量名称
-  FIXES #171 去掉多余的变量 _batch_full
-  FIXES #171 修正业务逻辑
-  FIXES #171 修正编译警告
-  FIXES #171 重构方法，去掉编译警告
-  支持在ubuntu下进行编译
-  支持c++11
-  调整编译环境
-  代码优化
-  精简代码，变得更加容易阅读
-  调整函数实现方法
-  去掉没用的方法
-  ...
- 153e5c2b01e12897a9e03e4df446f5c6d86f75df
+release 1.0.9
+ eff52eedab87934cdcfb59af420b8f127899a08c
