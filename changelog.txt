@@ -1,2 +1,2 @@
-FIXES #183 完成文字过滤部分的代码
- dc325bfd39586cd05c247efcb82f6cb44f815f9a
+FIXES #183 实现对文字信息的索引和查询
+ 29536ff42931f0b54eecc7d6dcdc5b866a9110c9
