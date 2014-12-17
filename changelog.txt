@@ -1,2 +1,2 @@
-release 1.0.9
- eff52eedab87934cdcfb59af420b8f127899a08c
+针对scala的类型混淆编译忽略
+ 5c23ff7af8f2460cce429d4d083ee3ea7896694e
