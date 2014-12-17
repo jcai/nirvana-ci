@@ -1,2 +1,2 @@
-FIXES #183 初步完成了对文字信息的索引功能
- ec264f18c4d1ce9f81d76c61f9cd5b9a2863139e
+FIXES #183 完成文字过滤部分的代码
+ dc325bfd39586cd05c247efcb82f6cb44f815f9a
