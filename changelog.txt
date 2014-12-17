@@ -1,2 +1,2 @@
-FIXES #183 增加Lucene的依赖包
- d9615d7672d61028a8d00e27355db88739c9d578
+FIXES #183 完成对数据行索引功能
+ d41cf8d355c1cd27420d3f5cef7b7d5e6fdbb2cc
