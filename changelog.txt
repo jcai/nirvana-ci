@@ -1,2 +1,2 @@
-针对scala的类型混淆编译忽略
- 5c23ff7af8f2460cce429d4d083ee3ea7896694e
+FIXES #183 增加Lucene的依赖包
+ d9615d7672d61028a8d00e27355db88739c9d578
