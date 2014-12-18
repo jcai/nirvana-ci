@@ -1,2 +1,2 @@
-FIXES #183 增加临时docId->SID的映射处理
- 7cb4ab100ab1c20f3c09e410c7ccfa0ff3fcecc4
+FIXES #183 还原正确的docId->SID的映射处理
+ 64930c81a56d4b71d6066117959b2f19cfb8682b
