@@ -1,2 +1,2 @@
-FIXES #183 完善查询体系
- c3a24756aa41c74bad47954d3f6fc343a13e81f6
+FIXES #183 删除没用的doc和sid的映射
+ fcedfd7d253b93cb0f4b737fa28da0c1c974cf2c
