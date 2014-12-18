@@ -1,2 +1,2 @@
-FIXES #183 实现对数据的索引工作
- 4d6b23d3e017f9416ca6effa7d68122453e1b431
+FIXES #183 增加临时docId->SID的映射处理
+ 7cb4ab100ab1c20f3c09e410c7ccfa0ff3fcecc4
