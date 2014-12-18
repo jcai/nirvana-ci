@@ -1,2 +1,2 @@
-FIXES #183 实现对文字信息的索引和查询
- 29536ff42931f0b54eecc7d6dcdc5b866a9110c9
+FIXES #183 重构文字信息的定义
+ 0785f138f023f35bb8a6bde1f249d81d4ce9ee49
