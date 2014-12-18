@@ -1,2 +1,2 @@
-FIXES #183 对原始数据的存储和同步
- 6cdf72e4de887c436b1d1bbd62b5793ec4ce89d3
+FIXES #183 实现对数据的索引工作
+ 4d6b23d3e017f9416ca6effa7d68122453e1b431
