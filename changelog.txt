@@ -1,2 +1,2 @@
-FIXES #183 重构文字信息的定义
- 0785f138f023f35bb8a6bde1f249d81d4ce9ee49
+FIXES #183 对原始数据能够正确捕获其状态
+ 131d4a6fbd1bddd4aa043d4b8d4e85218c632e00
