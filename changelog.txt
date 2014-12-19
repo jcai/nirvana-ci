@@ -1,2 +1,2 @@
-FIXES #183 拆分比对任务为分步骤比对
- 8f1d1f3fece25a1cb503b2750cde7b055ec8c121
+FIXES #183 拆分比对任务为分步骤比对,scala里面实现分步骤比对
+ b42e57d839d1c915d0ea0e0173e8f2c0015976ed
