@@ -1,2 +1,2 @@
-FIXES #183 针对SID 进行一次编码
- 33841a8c16435b2c90beaf99a0712db4aa68b1f9
+FIXES #183 使用第44到48位为数据类型
+ 10239c8fcc1cc8a3e7c0840a83a75bd3d417b1c3
