@@ -1,2 +1,9 @@
-去掉测试使用的临时搜索
- 805384c9ccf14a75e0540a4b57af946c7462e65b
+Merge branch 'feature/sid-new-code' into develop
+
+* feature/sid-new-code:
+  去掉测试使用的临时搜索
+  FIXES #183 针对搜索的对象，需要转换对应的数据类型
+  FIXES #184 删除没用的语句
+  FIXES #184 对数字类型重新定义编码
+  FIXES #184 调整数据定义，减少key的字节数
+ 5a5a52f33393555a5b1e9555bcc4de184f2254b1
