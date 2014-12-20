@@ -1,2 +1,2 @@
-FIXES #184 调整数据定义，减少key的字节数
- b06fe3a718a9774b72ae5483b5e3ec266abc1895
+FIXES #184 对数字类型重新定义编码
+ 538ea583da5403e62f8ca36052a5c8371ad78dae
