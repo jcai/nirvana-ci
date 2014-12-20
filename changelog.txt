@@ -1,2 +1,2 @@
-FIXES #184 SID不用再次判断
- ec87c56b2438c6d9028148b56b857f718ee7a6ca
+调整开始索引的位置
+ 7aa7a7c56d033d9d709a9c65e3dadf9f7db0e1bd
