@@ -1,2 +1,2 @@
-增加比对说明文字
- a53b13ec61f3d4e19a41bb381a6743c18bb83e64
+FIXES #184 SID不用再次判断
+ ec87c56b2438c6d9028148b56b857f718ee7a6ca
