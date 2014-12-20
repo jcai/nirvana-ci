@@ -1,25 +1,2 @@
-Merge branch 'feature/text-search' into develop
-
-* feature/text-search: (31 commits)
-  FIXES #183 添加对分区数据的查询支撑
-  FIXES #183 添加对分块数据的支持
-  FIXES #183 修正代码格式
-  FIXES #183 实现比对API的统一调用
-  FIXES #183 完成在scala中对文字筛选的支撑，实现文字筛选和比对的结合
-  FIXES #183 添加C端对文字筛选过滤后的查询支持
-  FIXES #183 完成对SID数据的保存
-  FIXES #183 完成比对架构的调整
-  FIXES #183 拆分比对任务为分步骤比对,scala里面实现分步骤比对
-  FIXES #183 拆分比对任务为分步骤比对
-  FIXES #183 使用第44到48位为数据类型
-  FIXES #183 针对SID 进行一次编码
-  FIXES #183 组合代码，完成对文本信息的索引
-  FIXES #183 增加自动化索引，在同步完数据后进行索引
-  FIXES #183 增强对文字信息的增删改
-  FIXES #183 增加SID的编码工作，能够很好的区分各种数据类型
-  FIXES #183 删除没用的doc和sid的映射
-  FIXES #183 完善查询体系
-  FIXES #183 正确初始化
-  FIXES #183 还原正确的docId->SID的映射处理
-  ...
- dda3d1561cd815b74ffa240a09cf48980d5976e2
+FIXES #184 调整数据定义，减少key的字节数
+ b06fe3a718a9774b72ae5483b5e3ec266abc1895
