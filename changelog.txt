@@ -1,2 +1,2 @@
-FIXES #186 二次比对的数据采用一个bytestring
- 7ee8351fd80db59c954292373fafffc1b9b694c6
+删除没用的依赖
+ e64580ec53ab90f7b4ff3f0c87f80bf0e7c01be3
