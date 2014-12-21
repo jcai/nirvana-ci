@@ -1,2 +1,2 @@
-FIXES #122 ZK的根目录能够自定义
- 1b986abaa4cfca13875ec42f841343c05411d818
+FIXES #187 升级proguard到5.1，以支持jaxb的配置类
+ f0484a3e6a246b8b3ee526aaf2f1470dcafbbd94
