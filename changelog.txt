@@ -1,2 +1,2 @@
-FIXES #183 针对文字过滤部分添加扩展支撑，以是的protobuf在解析的时候，能够解析Query查询对象
- 8597b5cc9c5dee884fbbc154d5ac7dacba92a596
+重命名调整代码风格一致性
+ f3e17e36d7fcef01811dcf6e6340ef39e96a6569
