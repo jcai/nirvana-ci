@@ -1,2 +1,2 @@
-FIXES #184 针对sid的索引编码进行重新处理，支持最多16种数据类型
- 6cffa2436c7b8afd4a4f398352eca46a7d4d0bc2
+FIXES #183 针对文字过滤部分添加扩展支撑，以是的protobuf在解析的时候，能够解析Query查询对象
+ 8597b5cc9c5dee884fbbc154d5ac7dacba92a596
