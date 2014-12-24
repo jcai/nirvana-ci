@@ -1,2 +1,2 @@
-upgrade copyright information
- 151cdaafbc991e99271314492f053388f8ab59fa
+FIXES #183 修正对于text索引的配置
+ b790114c373295ac5459a0db5f0e762d3389a373
