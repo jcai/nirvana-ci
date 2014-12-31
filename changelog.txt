@@ -1,6 +1,28 @@
-Merge branch 'feature/matcher-status' into develop
+Merge branch 'develop'
 
-* feature/matcher-status:
+* develop: (71 commits)
   FIXES #191 提供比对状态的描述
+  FIXES #191 针对文字筛选，如果传入的条件为0，则不走文字筛选
   FIXES #191 增加比对结果
- 06bf01b521829a217e16e9b0a6418e4a15346396
+  输出文字筛选时候的结果大小
+  删除没用的语句
+  修正返回key的错误
+  修正数据导入时候，对文字信息的读取
+  FIXES #183 修正对配置文件的读取
+  增加对文字信息的同步
+  修正文字筛选带来的问题
+  删除没用变量
+  FIXES #189 修正测试用例失败
+  FIXES #189 文字筛选的最大最小查询不都是必须
+  //TT 和 LL的时候应该都要比对，所以不需要指位信息
+  格式化
+  FIXES #188 RPC服务器绑定在所有网卡
+  FIXES #183 修正对于text索引的配置
+  upgrade copyright information
+  重命名调整代码风格一致性
+  FIXES #183 针对文字过滤部分添加扩展支撑，以是的protobuf在解析的时候，能够解析Query查询对象
+  ...
+
+Conflicts:
+	pom.xml
+ 293fd060ef930048408436ef326ca9aa01a945f6
