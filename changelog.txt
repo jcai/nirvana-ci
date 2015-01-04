@@ -1,2 +1,2 @@
-FIXES #192 调整文件路径的读取策略
- 8d4774092fe4dfdd7f054e6e51a0071412247d66
+FIXES #192 修正对symbol读取的异常处理进行忽略
+ b970e064a637da4923f8e8e0f29bcbaa59b71aad
