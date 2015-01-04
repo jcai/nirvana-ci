@@ -1,2 +1,2 @@
-FIXES #192 修正对symbol读取的异常处理进行忽略
- b970e064a637da4923f8e8e0f29bcbaa59b71aad
+FIXES #193 在获取IP地址的同时能够获得硬件的mac地址
+ 305c423583c5a951c30c3d27adcb8e6a7855cf9b
