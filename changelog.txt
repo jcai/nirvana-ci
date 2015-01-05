@@ -1,2 +1,2 @@
-FIXES #193 在获取IP地址的同时能够获得硬件的mac地址
- 305c423583c5a951c30c3d27adcb8e6a7855cf9b
+增加rocksdb的license
+ 57cb82d304aacb5d618b535ad3f6b383c1f732f2
