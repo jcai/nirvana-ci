@@ -1,2 +1,2 @@
-增加rocksdb的license
- 57cb82d304aacb5d618b535ad3f6b383c1f732f2
+FIXES #195 支持对localhost的ip进行处理
+ b7f1b189cf120bc72e8a49a259108e0815c92f47
