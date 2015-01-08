@@ -1,2 +1,2 @@
-测试keyword的模糊查询
- 6f32b2ce5d5b8571a7c28a297ec063ef0debf65d
+增加在docker模式下的编译脚本
+ 0cb5cca2f254781c0092ed6a06f4a3fc86543c37
