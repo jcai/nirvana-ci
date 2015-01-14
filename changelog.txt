@@ -1,2 +1,2 @@
-增加编译脚本
- 9262fda8cd0456d79d53b510ef21dfb3068e2195
+增加debug信息
+ fce247c445044f68b2b4f79dbb1a4dae3c35c670
