@@ -1,2 +1,2 @@
-增加debug信息
- fce247c445044f68b2b4f79dbb1a4dae3c35c670
+修正测试bug
+ 71b3e2cf2131a5fe0531c42dd20eda67e1e0f237
