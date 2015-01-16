@@ -1,2 +1,2 @@
-FIXES #196 重构项目结构
- 977b0efad503bab5e86fd73e2f2db5fbc69605eb
+忽略log文件夹
+ 80454760e116995ba0c319cbc55b9280a958dd7e
