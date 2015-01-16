@@ -1,2 +1,2 @@
-FIXES #196 修改文本错误
- d56bd3cc3daff3a04da8f692633284f12c1d4580
+初步加入数据库同步脚本
+ 552ec2f42219bb6ea46e9ba6bc8b77ce1b0b0e0f
