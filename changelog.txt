@@ -1,2 +1,2 @@
-FIXES #196 重构WEB端请求的对Protobuf的处理
- 9eef536fa5b8022d098f3f4302866d1aaf3512c1
+FIXES #196 增加在授权模块对protobuf的处理机制
+ 139708683906dcd14db57b0d2c578dce1d8e2655
