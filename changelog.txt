@@ -1,2 +1,2 @@
-FIXES #196 添加机器授权表
- a93e26616819140a2f99551fc6bf5e6d8d28e4c0
+FIXES #196 重构WEB端请求的对Protobuf的处理
+ 9eef536fa5b8022d098f3f4302866d1aaf3512c1
