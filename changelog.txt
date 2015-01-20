@@ -1,2 +1,2 @@
-FIXES #196 增加在授权模块对protobuf的处理机制
- 139708683906dcd14db57b0d2c578dce1d8e2655
+FIXES #196 增加对数据库的处理
+ 81a3d21bf0b98215d0105ea77bf474dc8f756056
