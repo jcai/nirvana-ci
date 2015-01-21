@@ -1,2 +1,2 @@
-FIXES #196 增加完整测试
- 994919bd4e9a498404d36bada0f56d57e3f1ece5
+FIXES #196 完善数据库升级脚本
+ 0997b315200cc3d264f169f16f0f1f74f3ddf4e1
