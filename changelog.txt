@@ -1,2 +1,2 @@
-FIXES #196 Add build script
- 90dec3512107d66aad9cd64b8024eb625d51c59f
+FIXES #196 Add zlib support
+ 1dd9027bb0bb9dc26f1e85e2f55af7497fcf6a87
