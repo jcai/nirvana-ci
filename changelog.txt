@@ -1,2 +1,2 @@
-FIXES #196 modify Makefile under mingw
- cb46871897ad1c5158dd7c339ff29daf9bbb3d05
+FIXES #196 添加统一编译时刻的包
+ 27ec2fd743a8233397a9087350f466230cb70086
