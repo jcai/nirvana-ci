@@ -1,2 +1,2 @@
-FIXES #196 调整输出文件名称
- 004d4e4f4912b174e57b5cb3f44f7241c2fb2d44
+调整read命令
+ 0314f845ea72da2ec391e8ec8b50e3767a01238d
