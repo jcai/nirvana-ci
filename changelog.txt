@@ -1,2 +1,2 @@
-增加sigar的支持
- cc40eb84b75623de2c8a12f6438d91d266bd6efa
+FIXES #196 增加sigar的支持
+ fc7586d90faf013c935c990f1a9477e3ff36d43f
