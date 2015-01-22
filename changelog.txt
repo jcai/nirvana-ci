@@ -1,2 +1,2 @@
-FIXES #196 Add zlib support
- 1dd9027bb0bb9dc26f1e85e2f55af7497fcf6a87
+FIXES #196 增加docker编译脚本
+ 3339598463742324c8654a338f2b814e71b2d75a
