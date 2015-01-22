@@ -1,2 +1,2 @@
-FIXES #196 增加sigar的支持
- fc7586d90faf013c935c990f1a9477e3ff36d43f
+#196 静态化编译gcc
+ 0852579168b7f83087c0ce0ad0ad41d5c340becb
