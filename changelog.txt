@@ -1,2 +1,2 @@
-FIXES #196 增加c的实现客户端
- bdfccfe21882348df9323b06bc1f48c41ec9ab78
+FIXES #196 Add build script
+ 90dec3512107d66aad9cd64b8024eb625d51c59f
