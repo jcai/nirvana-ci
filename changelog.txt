@@ -1,2 +1,2 @@
-FIXES #196 move file to nirvana-auth directory
- dec1933cb9191c12b359df7990e93630ab654ee8
+增加cmake编译脚本
+ 0e65102b79720b1d7dd67988942fd7055da9bece
