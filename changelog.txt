@@ -1,2 +1,2 @@
-在mac下编译成功
- ac74e56a774ece660953a677042d15204aeea586
+Fix build bug under mingw
+ 5321c4c061c99974605c4e41e571630e22fa2b3a
