@@ -1,2 +1,2 @@
-#196 各种架构的安装目录不通
- 2f81f8b09ffbdeddfebb5d7bd1170479bac6343a
+删除bin目录
+ ff4c639e66c02f72870c183908f4eaa4619f2dcf
