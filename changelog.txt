@@ -1,2 +1,2 @@
-删除bin目录
- ff4c639e66c02f72870c183908f4eaa4619f2dcf
+FIXES #196 move file to nirvana-auth directory
+ dec1933cb9191c12b359df7990e93630ab654ee8
