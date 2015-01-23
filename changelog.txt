@@ -1,2 +1,2 @@
-Fix build bug under mingw
- 5321c4c061c99974605c4e41e571630e22fa2b3a
+更改docker采用cmake编译体系
+ 21ec700959fb9f7a4a6e27c5484bfebc62e4f068
