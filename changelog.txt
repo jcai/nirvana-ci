@@ -1,2 +1,2 @@
-增加sigar的补丁，支持静态编译
- 62f67162b1b8467ac73d37ab58856098ac38a73b
+Add nsis file to create setup exe
+ 9c9758e7af041915fd884dfc2c2efdad1c0e289b
