@@ -1,2 +1,2 @@
-Add nsis file to create setup exe
- 9c9758e7af041915fd884dfc2c2efdad1c0e289b
+#196 调整安装脚本
+ de6031ec2ac8044220fa0793270145b3b6df9628
