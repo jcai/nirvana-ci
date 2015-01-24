@@ -1,2 +1,2 @@
-分离C文件
- 128129d26facae0b729a7b8203706fada381464d
+Fix compile under mingw
+ a2f0d7df68f071428257c11f488fc5709ade961d
