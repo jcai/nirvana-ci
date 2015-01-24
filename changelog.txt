@@ -1,2 +1,2 @@
-#196 添加使用jansson解析服务器传过来的JSON字符串
- 9488a25fff11eb87f40760a3a6b4daae212a1eb4
+#196 完善利用libcurl向服务器发送数据
+ ed8a3b0694c202a57db5251b628afea2b9b6c068
