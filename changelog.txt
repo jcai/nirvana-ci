@@ -1,2 +1,2 @@
-Add manifest files
- f9f202d07585c8f1ca79a7298ce84d25ef20e445
+调整CMake在win下的版本支持
+ 4da33456ad5a80a4e30fe3b5904b812afc5a2407
