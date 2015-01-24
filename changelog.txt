@@ -1,2 +1,2 @@
-stop service when running
- 6f26bf93a4a68157cbad646fb2d31190cb6148d6
+delete service before install
+ 4e5b2a6c12bf7a6f285c9d9fb56cd6c28350e2e2
