@@ -1,2 +1,2 @@
-add version support
- dbbe8b818550d33d5a7e1d9510a68b62be56d1c5
+add icon
+ 698930af422348ec46d37161fec562363347b16e
