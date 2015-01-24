@@ -1,2 +1,2 @@
-移动win32文件到对应目录
- 3c794cc32c1196a1419a2e53fe653f6ebe00c273
+#196 添加使用jansson解析服务器传过来的JSON字符串
+ 9488a25fff11eb87f40760a3a6b4daae212a1eb4
