@@ -1,2 +1,2 @@
-Finish to run as win service
- 03d37827562fcabe2bc33e32fca1183578b6c7cf
+Add service library
+ 8d205c7702bb680cf8faa8eb6d84481e486c75ed
