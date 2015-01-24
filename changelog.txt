@@ -1,2 +1,2 @@
-Fix compile under mingw
- a2f0d7df68f071428257c11f488fc5709ade961d
+修正编译警告
+ 147283c923736697f9227b60fa0a11abbed3638e
