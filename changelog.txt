@@ -1,2 +1,2 @@
-修正编译警告
- 147283c923736697f9227b60fa0a11abbed3638e
+Finish to run as win service
+ 03d37827562fcabe2bc33e32fca1183578b6c7cf
