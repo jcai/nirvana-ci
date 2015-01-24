@@ -1,2 +1,2 @@
-Add install config
- 87a86c59d011755d098ffca4e32e4e73bc2e77b6
+增加版本信息
+ 46d8978881c962bdd17f5caa3017aee094dcbbf8
