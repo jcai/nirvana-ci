@@ -1,2 +1,2 @@
-delete service before install
- 4e5b2a6c12bf7a6f285c9d9fb56cd6c28350e2e2
+移动win32文件到对应目录
+ 3c794cc32c1196a1419a2e53fe653f6ebe00c273
