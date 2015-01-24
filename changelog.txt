@@ -1,2 +1,2 @@
-#196 完善利用libcurl向服务器发送数据
- ed8a3b0694c202a57db5251b628afea2b9b6c068
+#196 调整输出
+ 1c9d09278b68298ac4e093cf19c060abaede1aa7
