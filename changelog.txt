@@ -1,2 +1,2 @@
-fix reg key under w64
- 1fb4636bacc500635a57f2f74c1801a48b794643
+增加版本信息，在64体系下
+ 0f7672f01efe2c43957b6ebd6e1c44e9d5a0867d
