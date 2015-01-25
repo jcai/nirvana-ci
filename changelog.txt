@@ -1,2 +1,2 @@
-调整编译脚本
- 0395d7cae0c7278c6d95f0d4f3a7ceb4d99338de
+增加读取注册表信息
+ 42ffd34a1291c63af155ee7aa21fe2f218bbd43a
