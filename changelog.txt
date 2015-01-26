@@ -1,2 +1,2 @@
-#196 INTERVAL_TIME为可配置
- 5c0f7db34b5bf451ba9589be64a6388a6db862e5
+#196 fix compile bug under win32
+ 7c1656f7ae9f6960d6f66e79172456bda413d971
