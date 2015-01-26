@@ -1,2 +1,2 @@
-调整async-http-client为optional
- 3fe5ce17e74e6e61d86bd735feb7ded2c6bb8506
+FIXES #197 去掉exe的快捷键
+ 1fe3cd55a52d6dc17d018caed03da09009b7d6e6
