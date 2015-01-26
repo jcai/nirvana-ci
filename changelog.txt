@@ -1,2 +1,2 @@
-#196 重构编译脚本，增强在Mac下的处理能力
- adb51cbd30cc23a2ca06ef3d973c13087af0b092
+#196 INTERVAL_TIME为可配置
+ 5c0f7db34b5bf451ba9589be64a6388a6db862e5
