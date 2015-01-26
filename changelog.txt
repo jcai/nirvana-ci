@@ -1,25 +1,2 @@
-Merge branch 'feature/registry' into develop
-
-* feature/registry: (79 commits)
-  #196 fix compile bug under win32
-  #196 INTERVAL_TIME为可配置
-  #196 重构编译脚本，增强在Mac下的处理能力
-  #196 过滤掉本机IP地址，以及IP是0开头的
-  导入缺失的文件
-  增加版本信息，在64体系下
-  fix reg key under w64
-  finish logger under win32
-  增加读取注册表信息
-  调整编译脚本
-  #196 调整输出
-  #196 完善利用libcurl向服务器发送数据
-  #196 添加使用jansson解析服务器传过来的JSON字符串
-  移动win32文件到对应目录
-  delete service before install
-  stop service when running
-  Add service library
-  Finish to run as win service
-  修正编译警告
-  Fix compile under mingw
-  ...
- 8c262db9087ec14ad728f3c8dff59d1edf6d27c2
+调整编译分支为develop
+ d85235f92034d1cba05d2b3f1f38d95a244f466b
