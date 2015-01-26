@@ -1,2 +1,2 @@
 FIXES #197 去掉exe的快捷键
- 1fe3cd55a52d6dc17d018caed03da09009b7d6e6
+ a615b5a49fea6c2c3d75a70b5815cad45646200c
