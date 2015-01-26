@@ -1,2 +1,2 @@
-增加版权信息
- 4b638d5b63932997b3dcb0ca2f6f4b255af4acee
+调整async-http-client为optional
+ 3fe5ce17e74e6e61d86bd735feb7ded2c6bb8506
