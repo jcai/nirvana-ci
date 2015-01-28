@@ -1,4 +1,2 @@
-Revert "FIXES #198 尝试在win32下写入到系统日志中"
-
-This reverts commit 9c6f4586f289412ac03ee3f1bdf52899168697a5.
- ac67bdd5fab081b079f5b7ee3556cf3c6f785c3a
+#199 完成set_serialno
+ 5c586bc25f79b29313cf324fc4d005d8cb076397
