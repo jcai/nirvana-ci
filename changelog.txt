@@ -1,2 +1,2 @@
-FIXES #199 实现service的重构
- e85ab2ee7f8fafb982243285710b2abc73f3121d
+FIXES #199 完成对lsn文件的写入操作
+ 60b9bc87110aebfec67b1424c5c971dd457bf5c1
