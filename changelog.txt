@@ -1,2 +1,2 @@
-FIXES #199 完成完全Byte表示
- fcae7aba2912b104b8691e1f6ec86a2db305b7e3
+FIXES #199 实现service的重构
+ e85ab2ee7f8fafb982243285710b2abc73f3121d
