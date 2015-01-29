@@ -1,2 +1,2 @@
-#199 使用scala实现授权的关键函数
- 01ecc11e1a86b137bdf88e7085e0c1c7b395b0bf
+FIXES #199 规整授权相关函数
+ b0e282d3f4b4cb350ad8fcd1f252fcf958e22212
