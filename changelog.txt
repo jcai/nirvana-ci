@@ -1,2 +1,2 @@
-FIXES #199 使用random的方法进行加密
- 764ffa59dddbc9d6fe2b63df3203b3fdc4ca2da8
+FIXES #199 优化make_sno
+ c2f40c2e568dc96f6936b5a9288fd1288c96252d
