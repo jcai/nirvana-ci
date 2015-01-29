@@ -1,2 +1,2 @@
-FIXES #199 优化make_sno
- c2f40c2e568dc96f6936b5a9288fd1288c96252d
+FIXES #199 完成完全Byte表示
+ fcae7aba2912b104b8691e1f6ec86a2db305b7e3
