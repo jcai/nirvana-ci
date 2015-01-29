@@ -1,2 +1,2 @@
-FIXES #199 调整TODO函数
- 23fc1b4078facd8f319b0c518ccf2d46b1c88c95
+FIXES #199 使用random的方法进行加密
+ 764ffa59dddbc9d6fe2b63df3203b3fdc4ca2da8
