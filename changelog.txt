@@ -1,2 +1,2 @@
-FIXES #203 #20 完成cloud的自定义混淆打包
- b714f249dd75bd492eaee63302e0a8e859f181f5
+FIXES #203 #20 对比对部分进行自定义打包
+ afb23a3b35f071e9031c1f6aa30ba8f9c4d23ca7
