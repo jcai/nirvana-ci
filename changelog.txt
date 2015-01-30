@@ -1,2 +1,2 @@
-FIXES #199 全面使用byte
- d2c47e2554a2ddd879d514d7eb80e618d6b34ff1
+FIXES #200 支持客户端对授权码的写入
+ 2e3a79fe9a289d4d4b0fa8ba9ce2edcc1538a6b1
