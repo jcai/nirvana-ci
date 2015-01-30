@@ -1,2 +1,2 @@
-FIXES #199 完善对IP的A过滤
- d2d690f38e0c479825c179714b85acc23173c529
+FIXES #200 fix compile exception under mingw
+ 8e27ef87d277d27dd0ebc3f17ced212748975e05
