@@ -1,2 +1,2 @@
-FIXES #200 fix compile exception under mingw
- 8e27ef87d277d27dd0ebc3f17ced212748975e05
+FIXES #201 添加打包程序支持
+ ec15d8cba754e73d18dbc00d8bcd67dabf72d020
