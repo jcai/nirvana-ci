@@ -1,2 +1,2 @@
-FIXES #201 修正nirvana-auth的打包程序
- 7bd2467a9345c9438d9c2c0975e71c7c7ab20ab6
+FIXES #203 #20 完成cloud的自定义混淆打包
+ b714f249dd75bd492eaee63302e0a8e859f181f5
