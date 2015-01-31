@@ -1,2 +1,2 @@
-FIXES #206 增加对64bit机器的判断
- 29257d3f1c43904a228c7b471f00073dd55b04c9
+FIXES #206 Add x64 detect and install kernel dll to system32
+ 0c3b4b5f7b8bf51d52a56faf609984ecb850778e
