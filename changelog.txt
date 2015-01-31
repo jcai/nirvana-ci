@@ -1,2 +1,2 @@
-FIXES #206 Add x64 detect and install kernel dll to system32
- 0c3b4b5f7b8bf51d52a56faf609984ecb850778e
+FIXES #207 自动产生版本号
+ 322313db13db5bcc560f194fba551124392d320b
