@@ -1,2 +1,2 @@
-FIXES #207 编译时候增加源码版本号的读取
- 9d6118815855a0938aff0d8b5d65de8dcade1690
+FIXES #209 只使用有效网卡和IP进行发送
+ 953485a427883c3aeb1c55dc7aee5df20f34ac46
