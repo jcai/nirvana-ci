@@ -1,2 +1,2 @@
-FIXES #210 更改客户端程序的日志等级为 info
- 1eae21060d25d601c5dfbf8b9f6abe8bf30b075a
+FIXES #199 重构代码
+ 5acb20629c5a58f06980f5d54de33a7aa057b285
