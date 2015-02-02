@@ -1,2 +1,2 @@
-FIXES #211 增加AES、RSA、ECC算法的scala实现
- 5570cfe2cc252066db00838bafe9aae80a646f08
+FIXES #211 实现了基于hmac的校验规则
+ c84eb743c3b06c7dfacf7e179b63d8033767961f
