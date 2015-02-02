@@ -1,2 +1,2 @@
-FIXES #214 调整打包内容
- c454b1386593c61a08968afbbb96fe62e0e73b38
+FIXES #214 调整64位的文件名称
+ c5ba9a20696b7c9a413ccc470ba11ab22b9c8ca6
