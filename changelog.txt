@@ -1,2 +1,2 @@
-FIXES #206 去掉ip绑定
- aeb36957e79886e9188622d3311618dad1d8ff92
+FIXEX #199 修正对无线网卡的支持
+ 2b435f779f1d3cae832b2b90d1bd436e9168bbf8
