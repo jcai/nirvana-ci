@@ -1,2 +1,2 @@
-FIXES #214 调整64位的文件名称
- c5ba9a20696b7c9a413ccc470ba11ab22b9c8ca6
+FIXES #211 修正mingw下编译错误
+ 2160985c82cffb5b8a2142031a10920200677ff6
