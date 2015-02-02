@@ -1,2 +1,2 @@
-FIXES #211 修正mingw下编译错误
- 060d6c2c0ebdbe71ff7c3d83558c5166e9870f37
+FIXES #214 调整注册表读取模式
+ 391e0727e2c41fd779a4768917e5bb4b16e39e3b
