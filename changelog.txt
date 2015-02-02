@@ -1,2 +1,2 @@
-FIXES #211 实现了基于hmac的校验规则
- c84eb743c3b06c7dfacf7e179b63d8033767961f
+FIXES #214 调整打包内容
+ c454b1386593c61a08968afbbb96fe62e0e73b38
