@@ -1,2 +1,2 @@
-FIXEX #199 修正对无线网卡的支持
- 2b435f779f1d3cae832b2b90d1bd436e9168bbf8
+输出网卡信息
+ 89e6e82b6dbcb175ed3bcd706d58c5c419ce6be3
