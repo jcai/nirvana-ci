@@ -1,2 +1,2 @@
-FIXES #211 完成C端和SCALA两端的HmacMd5算法
- 5458c2cada7a932e9140fa0a1f7854f3d9ee9058
+FIXES #211 增加连接地址
+ c5e24c32bfd36681b681369f0b50aca4246bcfb5
