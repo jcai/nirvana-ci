@@ -1,2 +1,2 @@
-输出网卡信息
- 89e6e82b6dbcb175ed3bcd706d58c5c419ce6be3
+FIXES #199 调整日志等级 
+ 087bb4fcf1f553ad5ee53facd925b0c351817b28
