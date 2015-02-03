@@ -1,2 +1,2 @@
-FIXES #216 修正keyword查询时候对occur的引用错误
- cbf915efe08c3a0a689dd5f414e7d9409f802c98
+FIXES #216 优化代码，采用尾递归对数据进行处理
+ 3715866e4e101f9f52c92d06a24abbe41a45399e
