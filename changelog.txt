@@ -1,2 +1,2 @@
-FIXES #216 支持查询的时候，进行分组查询概念，同时支持各个条件之间与和或的关系
- af553eca6c2735560ac8edcb3240a2d9b8428676
+FIXES #216 修正keyword查询时候对occur的引用错误
+ cbf915efe08c3a0a689dd5f414e7d9409f802c98
