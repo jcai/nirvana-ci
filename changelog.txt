@@ -1,2 +1,2 @@
-FIXES #217 添加打包脚本
- 475246adb4c4874e9c98b8a6ed38527921cedf96
+FIXES #217 调整API的url地址，以及加入对javaapi的自动打包加载
+ b7f4fd6d32748309156dc5b09efce8fcfe1d02db
