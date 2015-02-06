@@ -1,2 +1,2 @@
-FIXES #217 调整API的url地址，以及加入对javaapi的自动打包加载
- b7f4fd6d32748309156dc5b09efce8fcfe1d02db
+FIXES #217 编译客户端的时候，使用输出的64位的dll
+ 386323f24fa9eaf2937ad89b99569ab2737d4ac3
