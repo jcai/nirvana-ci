@@ -1,2 +1,2 @@
-FIXES #217 增强文档
- 6cbe8ef55bcdb158bc15c90f8e5e28f815bd3138
+FIXES #217 过滤掉gen文档
+ 666042f998442bb9c75b8dee208f77b915802c8a
