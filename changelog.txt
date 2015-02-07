@@ -1,2 +1,2 @@
-FIXES #212 #213 客户端完整对多个服务器的支撑，同时把轮询查询各个服务器
- 07981d0c7fec3c15f6f0c3c08312234060bd55fd
+FIXES #212 #213 fix some compile error under mingw32
+ 1a87c5816cfe91724801f9290d54c3963caef33b
