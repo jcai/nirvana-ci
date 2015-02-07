@@ -1,2 +1,2 @@
-FIXES #213 完成C和scala两端对url的加密
- d2589495e3527a3d0e765359cd84588031876d66
+FIXES #212 #213 初步完成Tea算法支撑
+ c9ec25fbcc5e75d5d2800cfe18ae70fd735a34dd
