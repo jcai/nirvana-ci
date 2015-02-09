@@ -1,2 +1,2 @@
-FIXES #218 添加从protobuf进行读取数据
- ab156eb90f028adf0bb8c44c44421ecba6daa74f
+FIXES #220 支持从压缩图像中提取特征
+ b355449945cc739de08ddbabf9dd16b6c9b6bec1
