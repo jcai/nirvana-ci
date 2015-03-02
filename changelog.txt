@@ -1,2 +1,2 @@
-完整实现了和monad的集成
- fa5ab6ab9f3f9e7888ac2dd0db5d6e0f94317919
+针对协议层采取单独的模式，避免和monad的重复
+ 05a6f5e9b4ed6cef4a088a7e3ab208f2db1d939c
