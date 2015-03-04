@@ -1,2 +1,2 @@
-删除多余的文件
- 9928ea92fd301b8290382b479ac75cea63b8aca1
+FIXES #227 增加AppBootstrap，支持单独的jar启动支撑
+ af0d17b653c053ce934a33c4f6230493063f580d
