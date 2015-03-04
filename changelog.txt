@@ -1,4 +1,2 @@
-Revert "FIXES #227 增加AppBootstrap，支持单独的jar启动支撑"
-
-This reverts commit af0d17b653c053ce934a33c4f6230493063f580d.
- 1b1963303b1a9514b15ad30cdf304a9e7375e9af
+修正混淆编译的错误
+ adef96d356b2f8983b85b03123c648bab6be133b
