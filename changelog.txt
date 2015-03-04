@@ -1,2 +1,2 @@
-升级monad到5.0.2
- ca38729d6411a636dbb323fd31aa7338a25d0013
+使用monad的xsd定义
+ af0a81dae9bcc6791e97e8d32de3fe338e0b4a4a
