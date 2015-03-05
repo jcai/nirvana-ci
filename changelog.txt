@@ -1,2 +1,2 @@
-FIXES #92 去掉ServiceLifecycle的接口
- 636d99d7efe61fc571b09dd54cffd58b3f5036b2
+FIXES #92 去掉ServiceLifecycleModule
+ c299c4196411f6838ec15472c52da9a7f6938baf
