@@ -1,2 +1,29 @@
-FIXES #92 去掉ServiceLifecycleModule
- c299c4196411f6838ec15472c52da9a7f6938baf
+Merge branch 'develop'
+
+* develop: (189 commits)
+  FIXES #92 去掉ServiceLifecycleModule
+  FIXES #92 全面采用RegistryShutdownHub来操作
+  FIXES #92 去掉ServiceLifecycle的接口
+  FIXES #226 调整disruptor和executor的关闭操作
+  升级disruptor到3.3.0
+  FIXES #228 调整日志输出，包含nirvana开头的日志
+  升级tapestry到5.3.8
+  修正混淆编译的错误
+  Revert "FIXES #227 增加AppBootstrap，支持单独的jar启动支撑"
+  FIXES #227 增加AppBootstrap，支持单独的jar启动支撑
+  删除多余的文件
+  使用monad的xsd定义
+  升级monad到5.0.2
+  调整protobuf相关的依赖
+  删除cloud的相关工程，精简项目文件
+  针对协议层采取单独的模式，避免和monad的重复
+  完整实现了和monad的集成
+  初步完成对monad的集成
+  添加TODO
+  FIXES #224  zk客户端应该启动失败重试操作
+  ...
+
+Conflicts:
+	nirvana-matcher/pom.xml
+	nirvana-rpc/pom.xml
+ 8ce8f45cb4565afee3696a44a5bb9bae80414f48
