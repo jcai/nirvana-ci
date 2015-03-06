@@ -27,7 +27,7 @@ deploy:
     secure: W9v8LGZtz6Ts+Dha5vkUXE9p4jhJcpbDP5d5wgyG2kd3ixldkEBKUALzotJQ1knKKbcQJfb5SB0pkFXkQJYBLOucG/E5F7jKqC2U7nYxK+PsA2fEdNQ2Z6lBJswHAArvq//ZfpLTTwtv6TfOgny1lHHhLOAw3niWLp9lP2EVVSg=
   file: 
     - target/nirvana/nirvana-client/target/nirvana-client-${TRAVIS_TAG}-bin.tar.gz
-    - target/nirvana/nirvana-cloud/target/nirvana-cloud-${TRAVIS_TAG}-bin.tar.gz
+    - target/nirvana/nirvana-client/target/nirvana-kernel4j-${TRAVIS_TAG}-bin.tar.gz
     - target/nirvana/nirvana-storage/target/nirvana-storage-api-${TRAVIS_TAG}-bin.tar.gz
     - target/nirvana/nirvana-storage/target/nirvana-storage-meta-${TRAVIS_TAG}-bin.tar.gz
     - target/nirvana/nirvana-storage/target/nirvana-storage-node-${TRAVIS_TAG}-bin.tar.gz
