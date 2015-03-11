@@ -1,2 +1,2 @@
-FIXES #230 调整docker文件
- fa53ba19e14b6cfa975acf6fdce158da4b309307
+FIXES #230 升级编译环境maven到3.2.5
+ ee3f78cb201972304d75e055660440636fcce46f
