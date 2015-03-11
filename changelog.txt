@@ -1,2 +1,2 @@
-使用原子操作代替锁
- 1f04932f755e0d9205fc1898ec5baafdca84f988
+调整catch操作，针对引起jvm错误的不进行catch
+ 8c2956b17c24b3cd458de06811669ab05ee63c98
