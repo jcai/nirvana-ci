@@ -1,3 +1,2 @@
-FIXES #229
-添加支持编译出来windows的dll的jni动态链接库，方便在windows下进行开发
- 24dbaac5c99e5ed3ee466a11ce8c64dd0e66d08d
+FIXES #230 删除rsa定义
+ d398327262eee8b400d039afeae9e63e1a5c6c11
