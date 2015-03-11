@@ -1,2 +1,3 @@
-FIXES #229 添加对arch的判断
- 9813a824b494f2cc419df11c47864a99421d6372
+FIXES #229
+添加支持编译出来windows的dll的jni动态链接库，方便在windows下进行开发
+ 24dbaac5c99e5ed3ee466a11ce8c64dd0e66d08d
