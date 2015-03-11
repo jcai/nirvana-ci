@@ -1,2 +1,2 @@
-调整catch操作，针对引起jvm错误的不进行catch
- 8c2956b17c24b3cd458de06811669ab05ee63c98
+FIXES #229 添加对arch的判断
+ 9813a824b494f2cc419df11c47864a99421d6372
