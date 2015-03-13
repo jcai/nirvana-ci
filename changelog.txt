@@ -1,2 +1,2 @@
-修正storage的静态编译
- 7a913a1aeaf76dd70ed6389fbf0f487abf23e5e0
+修正在mingw下编译对libwinpthread的依赖
+ 1a617b4ce36a1ff55dcf7ddd34e8afdb0c563d90
