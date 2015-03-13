@@ -1,2 +1,2 @@
-尝试修正在windows下面对dll的依赖问题
- 40dddcf61ff047aeb235ef50f28acf1085eb5f02
+去掉多余的编译定义
+ 257f9b5b56bd6989adf2abc95e9e727790d5cd8b
