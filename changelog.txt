@@ -1,2 +1,2 @@
-去掉多余的编译定义
- 257f9b5b56bd6989adf2abc95e9e727790d5cd8b
+修正storage的静态编译
+ 7a913a1aeaf76dd70ed6389fbf0f487abf23e5e0
