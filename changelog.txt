@@ -1,2 +1,2 @@
-调整编译自动运行
- eaa9408a92e1caa12de745c6d1965f43e66c3ea3
+添加授权客户端编译环境
+ b819468e376e2fb8c4c75f9bbe7ae0a10cdce24c
