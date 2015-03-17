@@ -1,2 +1,2 @@
-FIXES #223 完善kernel4j的编译支持
- dddce325f98fea39b744a6dc757b1c04742d1b3a
+FIXES #223 增加支持对kernrl4j的编译支持
+ 25928495daea3c104c80c9c3f0510d13d63ee6b5
