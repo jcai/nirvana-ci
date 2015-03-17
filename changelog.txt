@@ -1,2 +1,2 @@
-FIXES #223 初步增加kernel4j的C代码
- 8f533b90ecfe742d62709e6f636ad17faf8f1344
+FIXES #223 增加在windows下的编译支持
+ 7374c65e147de03d2738b484d7d22bb85d52c3af
