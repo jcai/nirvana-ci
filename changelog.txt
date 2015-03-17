@@ -1,2 +1,2 @@
-FIXES #223 增加在windows下的编译支持
- 7374c65e147de03d2738b484d7d22bb85d52c3af
+特征抽取仅仅链接对应的特征抽取dll
+ 6bcf8da7a033756418cff544597628f90dffc9b1
