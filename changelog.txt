@@ -1,2 +1,2 @@
-修正在mingw下编译对libwinpthread的依赖
- 1a617b4ce36a1ff55dcf7ddd34e8afdb0c563d90
+FIXES #223 初步增加kernel4j的C代码
+ 8f533b90ecfe742d62709e6f636ad17faf8f1344
