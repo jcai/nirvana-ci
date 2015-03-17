@@ -1,2 +1,2 @@
-FIXES #223 添加对kernel编译的支持
- 9ad1c1d71c55dc5f0ecbc2203c3d7afe84023e31
+调整Lucene的版本
+ 0390914746b191b8e266c31c9b6314d7b6604335
