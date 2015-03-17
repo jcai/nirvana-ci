@@ -1,2 +1,2 @@
-特征抽取仅仅链接对应的特征抽取dll
- 6bcf8da7a033756418cff544597628f90dffc9b1
+FIXES #223 完善kernel4j的编译支持
+ dddce325f98fea39b744a6dc757b1c04742d1b3a
