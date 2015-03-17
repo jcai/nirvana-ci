@@ -1,2 +1,2 @@
-FIXES #223 增加支持对kernrl4j的编译支持
- 25928495daea3c104c80c9c3f0510d13d63ee6b5
+FIXES #223 linux下静态包添加-fPIC进行编译
+ fa2e71bffd896a4441bf7c96b93abf9fe1be740f
