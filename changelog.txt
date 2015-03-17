@@ -1,2 +1,2 @@
-FIXES #223 linux下静态包添加-fPIC进行编译
- fa2e71bffd896a4441bf7c96b93abf9fe1be740f
+FIXES #223 添加对kernel编译的支持
+ 9ad1c1d71c55dc5f0ecbc2203c3d7afe84023e31
