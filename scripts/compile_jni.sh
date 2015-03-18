@@ -4,7 +4,7 @@ mkdir nirvana-c/build
 mkdir support/dll
 cd nirvana-c/build
 rm -rf *
-cmake -DSTATIC_LINK=on -DCMAKE_BUILD_TYPE=Release ..
+cmake  -DCMAKE_CXX_FLAGS="-std=c++11" -DCMAKE_BUILD_TYPE=Release ..
 make
 #CC=gcc-4.1 CXX=g++-4.3 cmake  ..
 cp src/*.so ../../support/dll/
@@ -13,7 +13,7 @@ mkdir -p ../../nirvana-jni/src/main/java/nirvana/jni/services/gen
 cp src/javaapi/* ../../nirvana-jni/src/main/java/nirvana/jni/services/gen
 
 #wget nirvana-kernel4j
-cd ../../
+cd -
 mkdir -p nirvana-kernel4j/src/main/resources/META-INF/native/windows32
 mkdir -p nirvana-kernel4j/src/main/resources/META-INF/native/windows64
 wget http://lichen.egfit.com/nirvana/dll/w32/nirvana_kernel4j.dll -O nirvana-kernel4j/src/main/resources/META-INF/native/windows3
