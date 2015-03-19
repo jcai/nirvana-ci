@@ -4,7 +4,7 @@ mkdir nirvana-c/build
 mkdir support/dll
 cd nirvana-c/build
 rm -rf *
-cmake  -DCMAKE_CXX_FLAGS="-std=c++11" -DCMAKE_BUILD_TYPE=Release ..
+CC=clang CXX=clang++ cmake  -DCMAKE_CXX_FLAGS="-std=c++11" -DCMAKE_BUILD_TYPE=Release ..
 make
 #CC=gcc-4.1 CXX=g++-4.3 cmake  ..
 cp src/*.so ../../support/dll/
