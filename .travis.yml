@@ -15,7 +15,7 @@ before_install:
 - ssh-add ~/.ssh/id_rsa
 - echo "machine bitbucket.org\n login $CI_DEPLOY_USERNAME\n password $CI_DEPLOY_PASSWORD\n"
   >> ~/.netrc
-- sudo apt-get install cmake swig build-essential
+- sudo apt-get install cmake swig build-essential g++
 install:
 - sh scripts/clone.sh
 - sh scripts/prepare.sh
