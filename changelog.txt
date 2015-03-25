@@ -1,2 +1,2 @@
-升级monad到5.0.4，解决了开发末实现对oracle的依赖
- 0f00e63cc430d8df0cf2f5b860bc94bfe466ec21
+尝试修正混淆模式下的错误
+ 63e0a2a611fb384a6485e8a7e5e77bb5eb68000b
