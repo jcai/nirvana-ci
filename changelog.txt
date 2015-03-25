@@ -1,2 +1,2 @@
-忽略monad的protocol
- 81116a4c19376636865a4b4ea976d80b3537c074
+monad的日志也加入输出
+ 21375bacc4b31a1fa26b2e4ab9a1d0cdee5667bc
