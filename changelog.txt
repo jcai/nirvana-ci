@@ -1,2 +1,2 @@
-修正注解的引入
- 38496d9be34d37289981c0b3c60bea3e32720a24
+忽略monad的protocol
+ a6f9edb7013d37b0d6347b74a0c4ebd36e833f28
