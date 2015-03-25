@@ -1,2 +1,2 @@
-monad的日志也加入输出
- 21375bacc4b31a1fa26b2e4ab9a1d0cdee5667bc
+升级monad，修正日志输出
+ 8cb4e1d9e5881b982295e9f56ca9cde84be8ab4f
