@@ -1,2 +1,2 @@
-ErrorCode的名称不被混淆
- b5fe1979e4fefe4deea1d1f9dfd628c8aa1c3727
+升级monad到5.0.6
+ 5df42af258ae386a5696c4885dc9b6d7361efba2
