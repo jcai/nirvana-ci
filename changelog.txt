@@ -1,2 +1,2 @@
-升级monad，修正日志输出
- 8cb4e1d9e5881b982295e9f56ca9cde84be8ab4f
+去掉多余的日志
+ 410823a2b34abe8ba7492c22b45e25507fad6870
