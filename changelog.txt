@@ -1,2 +1,2 @@
-申请空间多一些
- e0c0a8eb1ef1e3964a1edfdb18e37c9e4c1737f4
+调整初始化内存
+ 93e8365ec5a4d1caf9570f3fc70c3a6d27c419a4
