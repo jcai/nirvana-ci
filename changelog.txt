@@ -1,2 +1,2 @@
-FIXES #234 调整服务器地址的内存申请
- debfe03a5b3fb36af35020f038457b607440ad48
+FIXES #234 调整sum和delta采用无符号数字代替
+ c733036e75534f56254e8eff82e1bee3bd6d63c8
