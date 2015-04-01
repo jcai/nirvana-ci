@@ -1,2 +1,2 @@
-debug
- 791b66f8c633684bd5e03f30605cc8c6ad058183
+FIXES #234 调整服务器地址的内存申请
+ debfe03a5b3fb36af35020f038457b607440ad48
