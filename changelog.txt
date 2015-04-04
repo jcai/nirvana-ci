@@ -1,2 +1,2 @@
-FIXES #234 调整sum和delta采用无符号数字代替
- c733036e75534f56254e8eff82e1bee3bd6d63c8
+FIXES #235 升级protobuf到2.6.1
+ f2fb267dc05e751b92da1a16c8d26c7901bd12ab
