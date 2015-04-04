@@ -1,2 +1,2 @@
 FIXES #235 升级protobuf到2.6.1
- f2fb267dc05e751b92da1a16c8d26c7901bd12ab
+ d57cc0b5992e06f235651336b3c7dbdb814ae0e3
