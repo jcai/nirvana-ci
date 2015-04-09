@@ -1,2 +1,2 @@
-FIXES #235 升级protobuf到2.6.1
- df43348934a6fe8e799413590b0b168ae6791fd0
+支持rpc的压缩可配置
+ e230eee492ab45f366294d06a25a5bb931011aa6
