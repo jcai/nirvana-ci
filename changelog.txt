@@ -1,2 +1,2 @@
-升级到1.7,同时增加automake的支撑
- db4f1b7266cd03cdd189624493a49f44c85f7607
+修正对protobuf的编译错误
+ a9dd74098ee779e6fbca40ac8de9482e8e4a1a4b
