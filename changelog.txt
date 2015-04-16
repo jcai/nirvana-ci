@@ -1,2 +1,2 @@
-修正对protobuf的编译错误
- a9dd74098ee779e6fbca40ac8de9482e8e4a1a4b
+FIXES #236 对平面指位信息进行正确处理
+ dca3c15b13369d3eec06a5cfa575d20f08ac61de
