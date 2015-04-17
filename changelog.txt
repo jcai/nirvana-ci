@@ -1,2 +1,2 @@
-添加nirvana-java的支持
- f3bec771296423106d8f1aae44ce6997dc5779cb
+增加支持Google的debian操作系统
+ 4775c94fa46a1fe46bc7ce339226dd256f92f4d3
