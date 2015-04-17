@@ -1,2 +1,2 @@
-增加debian版本的nirvana-java
- 007dddb28315ab0863b173a5ea352a7c0d4d2b12
+使用debian作为基础系统
+ 9b98c067811ed22f6d730b89aa336c7dea0cbfd9
