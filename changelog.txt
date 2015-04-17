@@ -1,2 +1,2 @@
-增加cobbler的docker支持
- b2d088ce2e9d8052fea30613c1e18c13d7dfda2b
+增加debian版本的nirvana-java
+ 007dddb28315ab0863b173a5ea352a7c0d4d2b12
