@@ -1,2 +1,2 @@
-FIXES #236 采用常量代替
- 7ff75f89604047d1b40cf314289e28622f5314a5
+修正在hub.docker.com上的编译错误
+ 13eb8cf7c033cf356235d2e7c3fbb19298e1274b
