@@ -1,2 +1,2 @@
-增加支持Google的debian操作系统
- 4775c94fa46a1fe46bc7ce339226dd256f92f4d3
+增加cobbler的docker支持
+ b2d088ce2e9d8052fea30613c1e18c13d7dfda2b
