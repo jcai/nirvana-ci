@@ -1,2 +1,2 @@
-修正在hub.docker.com上的编译错误
- 13eb8cf7c033cf356235d2e7c3fbb19298e1274b
+添加nirvana-java的支持
+ f3bec771296423106d8f1aae44ce6997dc5779cb
