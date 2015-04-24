@@ -1,2 +1,2 @@
-调整域名指向到egfit
- ae8d631cfeb1762cd6ccc2e8ea885e9c861b3b9c
+FIXES #237 捕获dll加载错误
+ 394fa66cb8d44c171b13d8d8724c3eafba9adbf4
