@@ -1,2 +1,2 @@
-FIXES #237 捕获dll加载错误
- 394fa66cb8d44c171b13d8d8724c3eafba9adbf4
+取消授权服务器模块，采取独立模块进行配置
+ 8567c5f14797db62ea7f3eb91cff2a4340aa91aa
