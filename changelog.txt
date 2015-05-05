@@ -1,2 +1,2 @@
-取消授权服务器模块，采取独立模块进行配置
- 8567c5f14797db62ea7f3eb91cff2a4340aa91aa
+去掉nirvana-auth模块，采用独立授权模块
+ 1b4afc7e079fe3d7ac0b08e76da5bc5e1d10718d
