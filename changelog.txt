@@ -1,2 +1,2 @@
-去掉nirvana-auth模块，采用独立授权模块
- 1b4afc7e079fe3d7ac0b08e76da5bc5e1d10718d
+FIXES #238 调整client的编译环境为1.6
+ 7908e94ae4a047509e9acddc95fed429120b271f
