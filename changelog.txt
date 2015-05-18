@@ -1,2 +1,2 @@
-FIXES #238 调整client的编译环境为1.6
- 7908e94ae4a047509e9acddc95fed429120b271f
+FIXES #240 使用异常消息和枚举类来代替返回的错误代码
+ 04ca2671ceff37bd5738294a6fa2b8c86c964b4e
