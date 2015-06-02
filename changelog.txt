@@ -1,2 +1,2 @@
-重新调整label的格式
- fdbc4754836d8ed46a5a0a1c45da179acadf1d62
+FIXES #241 比对结果能够返回某一个比对任务真正消耗CPU的时间
+ 94fde883b652d3d0582beb11766d41d3f328c6a6
