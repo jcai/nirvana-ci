@@ -1,2 +1,2 @@
-格式化C++源码
- 0776df21d66d9ffb69b78e6a74f1f964b6d2128c
+重新调整label的格式
+ fdbc4754836d8ed46a5a0a1c45da179acadf1d62
