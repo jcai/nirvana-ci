@@ -1,2 +1,2 @@
-修正因为组织到导入引起的编译错误
- 7a75f8a4c51a72ede582d2fb14ac32f6bbd42bde
+FIXES #243 调整C端的最大特征大小可配置
+ 9752d8e1cacd81a4634a51c0b2ba54ae2c726e0d
