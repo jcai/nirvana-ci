@@ -1,2 +1,2 @@
-FIXES #242 支持输出cc文件
- b8d50b0d7be8aa0d46536037f19d7f8ca431563b
+修正因为组织到导入引起的编译错误
+ 7a75f8a4c51a72ede582d2fb14ac32f6bbd42bde
