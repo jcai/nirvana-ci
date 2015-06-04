@@ -1,2 +1,3 @@
-FIXES #241 发送比对结果的时候，带上消耗的时间数(单位：毫秒)
- 801c4bcbd94e8ab363102ef41c82b7a20d23f2c1
+FIXES #245 数据同步、比对任务抓取、比对结果反馈 支持读取protobuf文件.
+                   分别通过proto.sync.dir proto.task.dir proto.result.dir 来进行系统变量设置
+ ea832654619677483a7171bb24940cd7b790415a
