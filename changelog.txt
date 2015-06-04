@@ -1,3 +1,2 @@
-FIXES #245 数据同步、比对任务抓取、比对结果反馈 支持读取protobuf文件.
-                   分别通过proto.sync.dir proto.task.dir proto.result.dir 来进行系统变量设置
- ea832654619677483a7171bb24940cd7b790415a
+FIXES #245 修正编译错误
+ 6d7cbb268a5cff11691b498424bbc189c87d9a48
