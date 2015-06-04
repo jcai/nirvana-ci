@@ -1,2 +1,2 @@
-FIXES #241 调整metrics统计时间为实际的消耗时间
- 639b4571a7ff29a1214acee27be6c41a9ed566db
+FIXES #241 发送比对结果的时候，带上消耗的时间数(单位：毫秒)
+ 801c4bcbd94e8ab363102ef41c82b7a20d23f2c1
