@@ -1,2 +1,2 @@
-FIXES #245 修正编译错误
- 6d7cbb268a5cff11691b498424bbc189c87d9a48
+FIXES #246 支持从环境变量读取protobuf文件
+ 4d969b371b4833ba5935fcd2dc1cea36832fbf6e
