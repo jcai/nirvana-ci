@@ -1,2 +1,2 @@
-FIXES #243 调整C端的最大特征大小可配置
- 9752d8e1cacd81a4634a51c0b2ba54ae2c726e0d
+FIXES #241 调整metrics统计时间为实际的消耗时间
+ 639b4571a7ff29a1214acee27be6c41a9ed566db
