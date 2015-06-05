@@ -1,2 +1,2 @@
-FIXES #246 支持从环境变量读取protobuf文件
- 4d969b371b4833ba5935fcd2dc1cea36832fbf6e
+FIXES #247 比对完结果后能够返回参入比对的总记录数
+ 22676557332dbfcf67a990c4f70b530949955bd6
