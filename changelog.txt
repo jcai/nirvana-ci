@@ -1,2 +1,2 @@
-upgrade to 2016
- 157c7f855ac375106be09d0f9d7c11ba89e0c503
+FIXES #254 调整对version文件打包
+ 8ac5630b8c701aa6bef7cdad922c335546cd49da
