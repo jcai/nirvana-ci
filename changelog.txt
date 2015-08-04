@@ -1,2 +1,2 @@
-FIXES #256 在加载档案指纹数据采取缓存模式进行加载，大大提高数据加载速度
- 230d201a6ee3690946f2e37feebbae4892bf2c1f
+FIXES #256 添加并发控制支持
+ f5fe6d70c619f8fffdec9b41e8047b2297e74cdf
