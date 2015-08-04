@@ -1,2 +1,2 @@
-FIXES #256 添加并发控制支持
- f5fe6d70c619f8fffdec9b41e8047b2297e74cdf
+添加编译speed分支
+ ea980ac015a03aa9d1ae3863edb95b05ed24c1c9
