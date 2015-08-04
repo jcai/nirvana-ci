@@ -1,2 +1,2 @@
-FIXES #256 初步完成对一个block区域数据的读取
- c994278b20d4e770af9fed94e7f96b48870d8c9b
+FIXES #256 完成利用cache数据进行比对操作
+ ce4acac16aa4734efda133b374be60a39c740e02
