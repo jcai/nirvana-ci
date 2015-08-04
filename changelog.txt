@@ -1,2 +1,2 @@
-FIXES #256 完成利用cache数据进行比对操作
- ce4acac16aa4734efda133b374be60a39c740e02
+FIXES #256 在加载档案指纹数据采取缓存模式进行加载，大大提高数据加载速度
+ 230d201a6ee3690946f2e37feebbae4892bf2c1f
