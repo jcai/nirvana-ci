@@ -1,2 +1,11 @@
-FIXES #256     修正极端情况，当分配给该服务器的所有子任务均是末尾的块数据，那么newWidth不能得到更新，会陷入死循环
- 4bcdc35d0e004f976caf1bb72893113dab413cff
+Merge branch 'feature/speed' into develop
+
+* feature/speed:
+  FIXES #256     修正极端情况，当分配给该服务器的所有子任务均是末尾的块数据，那么newWidth不能得到更新，会陷入死循环
+  FIXES #256 判断width的长度
+  FIXES #256 关闭processor的时候，清空缓存
+  修正数据读写错误
+  FIXES #256 采取并发乐观并发控制，减少数据冲突
+  删除多余依赖
+  添加编译speed分支
+ ad244cdb10f893a7ee9d4fbbeba20b1330805877
