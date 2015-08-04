@@ -1,2 +1,2 @@
-修正数据读写错误
- 7e7f6a01294bd54df15808c751bd3670d32dd054
+FIXES #256 关闭processor的时候，清空缓存
+ 91276b7725041b3a9e7bee35f8a1df126edf7738
