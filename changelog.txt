@@ -1,2 +1,2 @@
-FIXES #258 添加配置，能够自定义配置是否支持块缓存配置
- ca2acd928ea4c45b0bb98482c436a8d2c340907a
+优化block数据的抓取，去报前端能够获得cache数据
+ f0d9747f7970dc850c8f8fc28189bdaf0e2230ea
