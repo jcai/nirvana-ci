@@ -1,2 +1,2 @@
-优化block数据的抓取，去报前端能够获得cache数据
- f0d9747f7970dc850c8f8fc28189bdaf0e2230ea
+优化代码实现
+ 22a3ea6897ab5beb54c662e8be0a020dfb59918f
