@@ -1,2 +1,2 @@
-数据同步完成后立即，删除binglobValue
- d0202d08ccd2c240c91283a2d59c242443d4a673
+FIXES #260 修正当指纹进行LT的时候,平面指纹也参入比对
+ 198be1c1092b23a70ac91a7b32ecdb30c197b5f5
