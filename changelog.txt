@@ -1,2 +1,2 @@
-未能将发送进度到nirvana-web的bug
- 9c0b7a463fe3a455430c00ae20fd6c6049eb87f7
+修正未能将比对进度发送到nirvana-web的bug
+ 5848c73306472014bcba7477f10549d101aa8183
