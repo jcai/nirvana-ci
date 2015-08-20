@@ -1,2 +1,2 @@
-REF #263 增加注释方便查看问题
- 187f234e85adf8aeaa19e7ae3accc65941ef892b
+REF #263 输出比对时候的特征数目
+ cab932ffba30e3899a234404b688161ea002dc7f
