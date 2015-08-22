@@ -1,2 +1,2 @@
-FIXES #263 去掉整块内存申请模式
- 3efd401b2b71d1e9d3b920f4b0344933b3ca7f0b
+FIXES #263 去掉一些不必要的日志输出
+ 11b708eab941c308a4aa4d59b0d76b99ab3dda3f
