@@ -1,2 +1,2 @@
-FIXES #264 实现了数据同步时刻能够自定义同步的条数
- 8880f3735e44976d26afee24712a5e89972375d7
+upgrade monad to 5.0.17
+ 03eacd7766e6555bc2e4d06727a01bc6aab39b79
