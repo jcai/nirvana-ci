@@ -1,2 +1,2 @@
-add compile script on ppc
- 99721b966ba9cec9dc1f97847cccaa3064b3cbc8
+modify docker file for ppc
+ c3fd361c2931ac9b160737386146e46315fa9276
