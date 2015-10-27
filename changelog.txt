@@ -1,2 +1,2 @@
-抓取任务采取递归模式，方便能够及时抓取全部任务
- 75f3a4277320a6bcd022c924a91cc126e184282f
+add compile script on ppc
+ 99721b966ba9cec9dc1f97847cccaa3064b3cbc8
