@@ -1,2 +1,2 @@
-modify docker file for ppc
- c3fd361c2931ac9b160737386146e46315fa9276
+add compile snappy library
+ 4aaf612d77efdcd6ae4a24d7e4916045856d16f2
