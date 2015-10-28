@@ -1,2 +1,2 @@
-add compile snappy library
- 4aaf612d77efdcd6ae4a24d7e4916045856d16f2
+add ppc64el docker compiler
+ 9e7769b3cdb256a2594757bfd1ae4f0540390f55
