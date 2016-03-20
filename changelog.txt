@@ -1,2 +1,2 @@
-add ppc64el docker compiler
- 9e7769b3cdb256a2594757bfd1ae4f0540390f55
+增加比对的模式
+ ac6dbc659d209a8b255e8da931eb042865cf9e16
