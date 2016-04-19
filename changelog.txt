@@ -1,2 +1,2 @@
-实现边检的自定义配置
- c5253d081123b2ad1fae9ceac8d00fd09ee2590b
+compile-centos5 protobuf2.6.1
+ 0be66e93c5488fdfff54aeb4635d10d173197506
