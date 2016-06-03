@@ -1,2 +1,2 @@
-MinutiaType.TEXT 类型数据长度校验
- 7221aef4869f64e98e3f852b65e95891e17dc261
+FIXES #268 输出指位信息
+ b8b6f3ab1845957ee3012bab350b781fc731ff8c
