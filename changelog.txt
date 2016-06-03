@@ -1,2 +1,2 @@
-FIXES #269 把未知机器增加到集合中
- bc29c65131e44ee2a2d772ae2b45e1723350258f
+remove pom
+ 46a2a3f97f54dd86f5d2f1ffc84bc0b52f9a8b44
