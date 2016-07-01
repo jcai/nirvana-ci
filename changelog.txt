@@ -1,2 +1,2 @@
-REF #270 尝试解决新疆云的同步写入问题
- fe75cbe96e8fac1fd82c82c9fac1612cb42ee255
+REF #270 修正编译错误
+ ae336d749f3574dc4e4cd6a2ab5931e502b759e0
