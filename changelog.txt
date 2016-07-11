@@ -1,2 +1,2 @@
-adjust time limit
- 8dc7aac51cc94da6168307d020577c7cfbb5bd7b
+FIXES #271 修正设置二次比对初始化时候的参数问题
+ 1a173ec4723c126bdb2929072445e7494765dc2e
