@@ -1,2 +1,2 @@
-REF #271 输出是否开启二次比对
- b301bb3e8f1202ff39450d91dc86201a604c27f0
+upgrade native version
+ 21e00c235f86966d617eef1d17fd16244c5d07fe
