@@ -1,2 +1,2 @@
-upgrade native version
- 21e00c235f86966d617eef1d17fd16244c5d07fe
+当数据类型不一致的时候,不进行同步操作
+ 63cc691409c6fafae9a48c3d576cc8fbb8323323
