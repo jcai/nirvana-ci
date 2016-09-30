@@ -1,2 +1,2 @@
-REF #273 再次尝试输出多组数值
- 571dcf946b9ec420f609e9d734d1ca3a15e439c3
+REF #273 output candicate number
+ 20d97b18532f3d623b4b57ebf2881b9d56e3270b
