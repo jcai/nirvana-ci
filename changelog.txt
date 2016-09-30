@@ -1,2 +1,2 @@
-#273 output task id
- b4ff833053f4a540399987e1c0bab0d8eeeb02f4
+#273 调整任务号的输出为比对任务号,心跳改为新的实现方式
+ 2c870b95add99774ca4c90da8e8a4a75109e124d
