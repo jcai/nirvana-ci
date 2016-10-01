@@ -1,2 +1,2 @@
-#273 ouput correct sid
- 1ce8a0a4bbf51f5ff3abf321684731cf20176891
+#273 取消掉debug的版本
+ 399e204de9566de260402e551ef8f7adf2268ea5
