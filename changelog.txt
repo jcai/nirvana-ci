@@ -1,2 +1,2 @@
-#REF 273 尝试输出完整的的信息
- 2f1dc9cd2ea38f4f29e9b734278f4e76d15295a9
+#273 ouput correct sid
+ 1ce8a0a4bbf51f5ff3abf321684731cf20176891
