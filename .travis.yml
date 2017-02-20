@@ -13,8 +13,6 @@ before_install:
 - chmod 600 ~/.ssh/id_rsa*
 - eval `ssh-agent -s`
 - ssh-add ~/.ssh/id_rsa
-- cat ~/.ssh/id_rsa.pub
-- cat ~/.ssh/id_rsa
 - echo "machine bitbucket.org\n login $CI_DEPLOY_USERNAME\n password $CI_DEPLOY_PASSWORD\n"
   >> ~/.netrc
 - sudo apt-get install cmake swig build-essential g++
