@@ -1,2 +1,2 @@
-nirvana-matcher-sync添加web服务接口GetSyncData
- e42272f00ed9822ef214898b059c184c7deb1f9e
+修正nirvana-matcher混淆proguard编译报错
+ f2a39ab5f89f87efae235ff551616a80a45de9a4
