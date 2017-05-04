@@ -1,2 +1,2 @@
-修正比对任务特征大小验证失败长度信息
- af1127a784300327fa28aeff0742eca89a84be51
+nirvana-matcher-sync添加web服务接口GetSyncData
+ e42272f00ed9822ef214898b059c184c7deb1f9e
