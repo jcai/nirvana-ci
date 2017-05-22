@@ -1,2 +1,2 @@
-修正nirvana-matcher混淆proguard编译报错
- f2a39ab5f89f87efae235ff551616a80a45de9a4
+SyncConfig添加log_kept_num配置
+ 510adb8552ebdeb2afa8399e66b94fbd4f644439
