@@ -1,2 +1,2 @@
-SyncConfig添加log_kept_num配置
- 510adb8552ebdeb2afa8399e66b94fbd4f644439
+添加注释信息
+ 0562242c570435069e98e827d1c82726888e1261
