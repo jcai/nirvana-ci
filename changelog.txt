@@ -1,2 +1,2 @@
-#275 调整字段名称
- a5736975d2a35ee1f1f4db19403cb24c539dc5f6
+REF #275 初步实现对多个比对源特征的支持
+ 1871d7bfaf32ffae41248e7da06dcd96db1f4afb
