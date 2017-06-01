@@ -1,2 +1,2 @@
-REF #275 初步实现对多个比对源特征的支持
- 1871d7bfaf32ffae41248e7da06dcd96db1f4afb
+REF #275 针对返回结果需要设置比对源的索引值
+ b9867bfe2050db0cfc7b2e19ce19abe5324deeb6
