@@ -1,2 +1,2 @@
-REF #275 针对返回结果需要设置比对源的索引值
- b9867bfe2050db0cfc7b2e19ce19abe5324deeb6
+using immutable collection instead of mutable collection
+ d422bb1a3fc8c8dfe63295cb4926968958e8ea49
