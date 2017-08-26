@@ -1,2 +1,2 @@
-using immutable collection instead of mutable collection
- d422bb1a3fc8c8dfe63295cb4926968958e8ea49
+文本查询条件KeywordQuery类型支持RegexpQuery，WildcardQuery
+ 261617b07c26d782f6492662c652ffc9ad9e2b87
