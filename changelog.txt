@@ -1,2 +1,2 @@
-REF #275 增强注释
- 995d059512d6fc81bbc1cedebab1caf9f58e24aa
+#276 添加对数据加载时候的数据量进行配置
+ 7e68a3b4258e974fffc19048a9b15ee5a621ca61
