@@ -1,2 +1,2 @@
-解决processor.maxMatchBatchSize配置大于400无效
- bc1c0c4725e7af43fec3744bae629fe50d07c296
+候选根据重卡组号合并
+ b7f9d891a32c88b07c26a70a32e30e9008c8095a
