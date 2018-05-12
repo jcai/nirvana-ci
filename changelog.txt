@@ -1,4 +1,2 @@
-FIXES #277 实现对候选结果进行重卡过滤功能.
-     processor中通过全文检索功能获取对应卡号，对相同卡号的进行合并，
-     spout中对processor传过来的数据进行根据卡号合并操作
- 8502defea261dbbb53c691dd36042f08149d68bd
+REF #277 优化代码
+ c079406a03e25e107512cc25a604a69bcfdfef5a
