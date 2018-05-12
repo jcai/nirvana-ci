@@ -1,2 +1,4 @@
-增强注释
- ef1dac9f0162655ef8f92fa54288035c182fefbb
+FIXES #277 实现对候选结果进行重卡过滤功能.
+     processor中通过全文检索功能获取对应卡号，对相同卡号的进行合并，
+     spout中对processor传过来的数据进行根据卡号合并操作
+ 8502defea261dbbb53c691dd36042f08149d68bd
