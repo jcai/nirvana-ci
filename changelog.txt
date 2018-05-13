@@ -1,2 +1,2 @@
-尝试processor候选对重卡合并
- 2b1553a3e858b41ea52e16781632517495abd437
+spout重卡组合并前，先对MatchResultElement.repeatGroup.nonEmpty校验
+ c69863d2235c08274dc7477eeb7412748c9d2b10
