@@ -1,2 +1,2 @@
-REF #277 修正对二次比对的判断
- 246ab465425bd14533a23b3d5ec2d4131cc2cc2b
+REF #277 从nosql中读取重卡组号
+ a538eda8e4d933e81ced46464beecce26734d5fb
