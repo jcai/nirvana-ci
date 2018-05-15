@@ -1,2 +1,2 @@
-REF #277  优化代码
- ab368bab5595f56db282dd04d27b9e4e3ee8449f
+REF #277 TT和LT查询类型重卡归并分别配置
+ beb18aa8c2ed6d942012d328ee7390ea952c555d
