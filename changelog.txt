@@ -1,2 +1,2 @@
-REF #277 从nosql中读取重卡组号
- a538eda8e4d933e81ced46464beecce26734d5fb
+REF #277  优化代码
+ ab368bab5595f56db282dd04d27b9e4e3ee8449f
