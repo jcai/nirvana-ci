@@ -1,2 +1,2 @@
-REF #277 修复重复元素比较的问题
- 18a5bb42ec5a6d5de0d35493ecaf66f077a47c7c
+REF #277 perfect return value
+ ae474e89c6bc0f83b6491e736514e3bd157bd65e
