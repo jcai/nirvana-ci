@@ -1,2 +1,2 @@
-REF #277 修正合并重卡组判断（&&优先级高于||）
- 94adf181f5462ff8339a909ef64e06fb1e4dfe4e
+REF #277 修正spout合并重卡组,同一重卡组同一指位相同分数只留第一条
+ dd0ab6cf0ddc0dbb881754f482c2b3aa4a21dbde
