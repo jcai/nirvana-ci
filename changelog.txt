@@ -1,2 +1,2 @@
-REF #277 修正spout合并重卡组,同一重卡组同一指位相同分数只留第一条
- dd0ab6cf0ddc0dbb881754f482c2b3aa4a21dbde
+REF #277 修复重复元素比较的问题
+ 18a5bb42ec5a6d5de0d35493ecaf66f077a47c7c
