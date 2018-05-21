@@ -1,2 +1,2 @@
-REF #277 perfect return value
- ae474e89c6bc0f83b6491e736514e3bd157bd65e
+REF #277 processor如果合并重卡组，候选数x2
+ 2b2ee34aa3f4097dc355d27029487ae363d24ad9
