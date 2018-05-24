@@ -1,2 +1,2 @@
-REF #277 processor如果合并重卡组，候选数x2
- 2b2ee34aa3f4097dc355d27029487ae363d24ad9
+REF #277 test_insertWithOverflowByDistinct_sort单元测试，排序问题
+ 0ddac0f1735b2882ed7c080f31ac4c44123d724b
