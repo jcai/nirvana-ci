@@ -1,2 +1,2 @@
-REF #277 test_insertWithOverflowByDistinct_sort单元测试，排序问题
- 0ddac0f1735b2882ed7c080f31ac4c44123d724b
+REF #277 修正移动排序问题
+ 018ef20ea9e38a87f76d067529eb4dbbf96175a8
