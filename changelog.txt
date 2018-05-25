@@ -1,2 +1,2 @@
-REF #277 修正移动排序问题
- 018ef20ea9e38a87f76d067529eb4dbbf96175a8
+REF #278 初步实现候选条码过滤功能
+ f75f9cbdd30f1b26f80b3019ca9ef6851bcb51cb
