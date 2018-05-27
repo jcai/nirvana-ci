@@ -1,2 +1,3 @@
-REF #278 add some comment
- 3e799a4f9f75a40acd0e2b6ddd43d16b29a773cb
+REF #278 移动SendResultToWeb为单独的类，方便进行测试;
+修正了在item过滤时候的逻辑错误
+ 77346d2c972113b957e692fda657708800d08a37
