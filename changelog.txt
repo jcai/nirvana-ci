@@ -1,2 +1,2 @@
-REF #278 优化了代码
- 007a8ac6d51b9c40de11c55b5e9afa2a732328d8
+REF #278 修正在过滤时候，条件导致的数据不正确问题
+ 144c871dbafa6e19e2ac19dd841c2faa8b4e9b06
