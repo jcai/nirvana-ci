@@ -1,3 +1,2 @@
-REF #278 移动SendResultToWeb为单独的类，方便进行测试;
-修正了在item过滤时候的逻辑错误
- 77346d2c972113b957e692fda657708800d08a37
+REF #278 use xor
+ c6c425dbde1c1ad789b9e80a5cc7931c5fc41a70
