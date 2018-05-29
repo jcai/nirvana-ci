@@ -1,2 +1,2 @@
-REF #278 修正百分比的处理不正确
- 06815af5bc4dc2ce7a8259c5e3225549e898d319
+REF #278 CandKeyFilterConfig @XmlType
+ d779b4d2f1ad145258b68360e322b5613d1592fc
