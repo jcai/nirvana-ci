@@ -1,2 +1,2 @@
-REF #278 use xor
- c6c425dbde1c1ad789b9e80a5cc7931c5fc41a70
+REF #278 修正spout.xsd
+ 2d7e05b8e059c9982f369397de1ad7ba730acc22
