@@ -1,2 +1,2 @@
-REF #278 CandKeyFilterConfig @XmlType
- d779b4d2f1ad145258b68360e322b5613d1592fc
+REF #278 修正混淆编译问题
+ a78f58d7b5a4aa5bd9b7cc4f6bbcfe112613dcd3
