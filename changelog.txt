@@ -1,2 +1,4 @@
-REF #278 修正候选过滤超出条件要求的个数
- f700dab768f6321420f88afe7be9e55e2c1193b0
+Revert "REF #278 修正候选过滤超出条件要求的个数"
+
+This reverts commit f700dab768f6321420f88afe7be9e55e2c1193b0.
+ 9429c7a4495bd4c6ebe882a4a92d6bf3e41b2758
