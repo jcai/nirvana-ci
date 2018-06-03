@@ -1,2 +1,2 @@
-采用面向对象思想来完成条码过滤
- 9ea8ce5f41c4a8c3ac15c72da61ddc3680940421
+REF #278 修正candKeyFilterConfigItem配置
+ e16340f61dc6c839aa07a8c2b1217b77ed443d08
