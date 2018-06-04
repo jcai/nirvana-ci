@@ -1,2 +1,2 @@
-REF #278 修正candKeyFilterConfigItem配置
- e16340f61dc6c839aa07a8c2b1217b77ed443d08
+use case class to defin MatchResultElement
+ e60a94af376adfe09309b3271a3e7743c026efb4
