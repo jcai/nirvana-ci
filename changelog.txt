@@ -1,2 +1,2 @@
-use case class to defin MatchResultElement
- e60a94af376adfe09309b3271a3e7743c026efb4
+delete unused code
+ c4c2c0bf0a533867a93afc6400c5640875965ce5
