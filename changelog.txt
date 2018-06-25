@@ -1,2 +1,2 @@
-增加对编号模糊测试
- f5349953217af6c790dc9fd4bc8efc010dc18942
+优化模糊查询时候的处理方式，使用constant变量来代替
+ caaecd26b59aae82089a02b295c85fd8161b7fbc
