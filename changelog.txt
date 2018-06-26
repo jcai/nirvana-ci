@@ -1,2 +1,25 @@
-优化模糊查询时候的处理方式，使用constant变量来代替
- caaecd26b59aae82089a02b295c85fd8161b7fbc
+Merge branch 'cand-key-filter' into develop
+
+* cand-key-filter: (25 commits)
+  delete unused code
+  use case class to defin MatchResultElement
+  REF #278 修正candKeyFilterConfigItem配置
+  采用面向对象思想来完成条码过滤
+  Revert "REF #278 修正候选过滤超出条件要求的个数"
+  REF #278 修正候选过滤超出条件要求的个数
+  REF #278 修正混淆编译问题
+  REF #278 CandKeyFilterConfig @XmlType
+  REF #278 修正百分比的处理不正确
+  REF #278 修正spout.xsd
+  REF #278 use xor
+  REF #278 移动SendResultToWeb为单独的类，方便进行测试; 修正了在item过滤时候的逻辑错误
+  REF #278 add some comment
+  REF #278 优化代码实现
+  REF #278 修正在过滤时候，条件导致的数据不正确问题
+  REF #278 优化了代码
+  REF #278 优化了代码
+  REF #278 优化了代码
+  REF #278 修正可以填充最大候选
+  REF #278 修正记录数不正确的问题
+  ...
+ d7cad27289c81860bb53b8c0091e897d0156db64
