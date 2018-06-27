@@ -1,2 +1,2 @@
-REF #279 调整partitionWaitingSubJobs和matchJobs为不可变集合
- d3ece294f89ecd4de6852e81b5af8f1eb0c1f231
+REF #279 调整runningSubJobs为不可变集合
+ ccb244b1a94d3cd661f786209a40fbc9c8a9f717
