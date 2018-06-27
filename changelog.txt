@@ -1,2 +1,2 @@
-REF #279 调整runningSubJobs为不可变集合
- ccb244b1a94d3cd661f786209a40fbc9c8a9f717
+REF #279 全部调整为不可变集合
+ 65c593313cdb41093355a53781a51ef235a1165c
