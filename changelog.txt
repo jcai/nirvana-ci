@@ -1,2 +1,2 @@
-修正授权过期时间
- b398f189f4ee958e74e9be2e7c824d30be6acbee
+REF #280 尝试将捺印掌纹特征放到cache中，支持内存比对
+ 9119e4dfc0928615cfba6aa0f85471cf3fd78564
