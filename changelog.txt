@@ -1,2 +1,2 @@
-REF #280 重新实现多种cache，能够支持多种数据类型
- a716efa8e1b70450a299e27cb60f6d039b608ce5
+REF #280 增加TODO，实现config模式对cache进行配置
+ 854b65dc7c9412fde67e14323bd0393d9198d855
