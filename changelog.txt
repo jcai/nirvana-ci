@@ -1,2 +1,2 @@
-REF #280 增加TODO，实现config模式对cache进行配置
- 854b65dc7c9412fde67e14323bd0393d9198d855
+REF #280 仅仅支持特征数据的缓存
+ b3e0036ec2e6ee482d1c0e1cf4f6ecff149312ae
