@@ -1,2 +1,2 @@
-REF #280 增加对数据类型的输出
- c87fdadcd9104789b558fe2234dbeac9c9a8e7b2
+REF #280 fast_block_cache配置
+ 1095c4f52e2ceb0ba398235111634aca1714528f
