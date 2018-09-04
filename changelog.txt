@@ -1,2 +1,2 @@
-REF #280 fast_block_cache配置
- 1095c4f52e2ceb0ba398235111634aca1714528f
+REF #281 添加文本查询阈值配置
+ f0de9a749a13167523959dd121e2ae7957d39048
