@@ -1,2 +1,2 @@
-REF #281 添加文本查询阈值配置
- f0de9a749a13167523959dd121e2ae7957d39048
+修正getFieldBySid报错
+ 53d5e68c6dfe2ccc77a53008bb7106182dd73116
