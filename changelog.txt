@@ -1,2 +1,2 @@
-修正getFieldBySid报错
- 53d5e68c6dfe2ccc77a53008bb7106182dd73116
+REF #281 优化代码减少不必要的开销
+ 96a90b84ece6419fbbff0ec2212bd5ae8ba8e310
