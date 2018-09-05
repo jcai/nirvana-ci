@@ -1,2 +1,2 @@
-REF #281 优化代码减少不必要的开销
- 96a90b84ece6419fbbff0ec2212bd5ae8ba8e310
+REF #281 删除不必要的返回
+ 0f07e4952cb2f6dd9044216acd23f1d4946c1ec4
