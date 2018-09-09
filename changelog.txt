@@ -1,2 +1,2 @@
-REF #281 修改sid变量命名，objectId, blockObjectId,blockDataTypeObjectId
- 528b8135f09c9618d7a78ee57fe30a1647995b25
+REF #281 优化代码,采取递归模式
+ 4a32bcd729da9996685ea48c818bc41da532722a
