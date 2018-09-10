@@ -1,2 +1,2 @@
-REF #281 优化代码,采取递归模式
- 4a32bcd729da9996685ea48c818bc41da532722a
+REF #281 正查比中一卡多个指位bug
+ 5eaf6679c97ae3dcbeaa7aec53eac9071c4ca2e4
