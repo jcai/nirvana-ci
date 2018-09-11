@@ -1,2 +1,2 @@
-REF #281 正查比中一卡多个指位bug
- 5eaf6679c97ae3dcbeaa7aec53eac9071c4ca2e4
+REF #281 比对完成后将C的比对候选队列转为java的比对候选队列再进行逻辑处理
+ c2b5058ac765eaaf7e294dad58593ecd654c44ad
