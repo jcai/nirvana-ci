@@ -1,2 +1,2 @@
-REF #281 比对完成后将C的比对候选队列转为java的比对候选队列再进行逻辑处理
- c2b5058ac765eaaf7e294dad58593ecd654c44ad
+merge text-query
+ 9be9d46426c85250f913528ca8e1f564a1f4dbb9
