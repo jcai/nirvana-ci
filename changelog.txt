@@ -2,4 +2,4 @@ Merge branch 'feature/immutable' into develop
 
 # Conflicts:
 #	nirvana-matcher/src/main/scala/nirvana/matcher/processor/internal/SegMatchExecutorSupport.scala
- 42570f900a560394e7d6da151abe2beac0a5830b
+ 7cb2f368fe4e04dc5c92b475e0ed0f5649a1327b
