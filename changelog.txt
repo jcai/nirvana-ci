@@ -1,2 +1,5 @@
-merge text-query
- 9be9d46426c85250f913528ca8e1f564a1f4dbb9
+Merge branch 'feature/immutable' into develop
+
+# Conflicts:
+#	nirvana-matcher/src/main/scala/nirvana/matcher/processor/internal/SegMatchExecutorSupport.scala
+ 42570f900a560394e7d6da151abe2beac0a5830b
