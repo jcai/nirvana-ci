@@ -1,2 +1,2 @@
-REF #282 比对子任务增加失败次数计数器
- 8a67bfaaecb783663e7f8f063dd4d065198c09e2
+nirvana_odps init
+ cb1b8bc9162b68a9600eb2080d01a7620fb2ee26
