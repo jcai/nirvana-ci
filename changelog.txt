@@ -1,2 +1,2 @@
-nirvana_odps init
- cb1b8bc9162b68a9600eb2080d01a7620fb2ee26
+pipeline
+ aebbd874e10130057d1f1457c39fba77a8c77dbd
