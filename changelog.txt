@@ -1,2 +1,2 @@
-pipeline
- aebbd874e10130057d1f1457c39fba77a8c77dbd
+nirvana-c调用jni获取分数
+ 5f14f5565729d42a3202bc973b1eac56450d59e7
