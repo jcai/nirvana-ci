@@ -1,2 +1,2 @@
-nirvana-c调用jni获取分数
- 5f14f5565729d42a3202bc973b1eac56450d59e7
+使用ODPS输入表数据进行比对
+ fe3f9ad8748ebb6cf7f4ca1a4bd8957893c1859b
