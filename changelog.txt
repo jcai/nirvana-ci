@@ -1,2 +1,2 @@
-使用ODPS输入表数据进行比对
- fe3f9ad8748ebb6cf7f4ca1a4bd8957893c1859b
+mv nirvana-c nirvana-odps/c
+ cfd4c69d63a895d3d02569fa2d68137fec7e2698
