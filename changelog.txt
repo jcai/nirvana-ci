@@ -1,2 +1,2 @@
-add libnirvana-odsp.so & PostgreSQLManager
- a32d5da6e0ad3ea2eac47bffb8fef0f4fa61dd9e
+add libnirvana-odsp.so
+ 110f3e08071199f23887988cf94155bd320fb400
