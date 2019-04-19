@@ -1,2 +1,2 @@
-mv nirvana-c nirvana-odps/c
- cfd4c69d63a895d3d02569fa2d68137fec7e2698
+add libnirvana-odsp.so & PostgreSQLManager
+ a32d5da6e0ad3ea2eac47bffb8fef0f4fa61dd9e
