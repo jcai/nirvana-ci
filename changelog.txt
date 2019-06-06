@@ -1,2 +1,2 @@
-add libnirvana-odsp.so
- 110f3e08071199f23887988cf94155bd320fb400
+完成算法接口调用功能(matcher.h);使用swig生成nirvan_matcher4j动态库
+ 429c9e7c65ff8319ba9a33fa7444d1af78053217
